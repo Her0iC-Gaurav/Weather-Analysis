@@ -1,0 +1,587 @@
+City,Country,Max_Latitude,Impact
+Vancouver,Canada,49.24966,"sky is clear"
+Vancouver,Canada,49.24966,"light rain"
+Vancouver,Canada,49.24966,"scattered clouds"
+Vancouver,Canada,49.24966,"light intensity shower rain"
+Vancouver,Canada,49.24966,"moderate rain"
+Vancouver,Canada,49.24966,"overcast clouds"
+Vancouver,Canada,49.24966,"proximity shower rain"
+Vancouver,Canada,49.24966,"broken clouds"
+Vancouver,Canada,49.24966,"few clouds"
+Vancouver,Canada,49.24966,mist
+Vancouver,Canada,49.24966,fog
+Portland,"United States",45.523449,"sky is clear"
+Portland,"United States",45.523449,"scattered clouds"
+Portland,"United States",45.523449,"few clouds"
+Portland,"United States",45.523449,"light rain"
+Portland,"United States",45.523449,"overcast clouds"
+Portland,"United States",45.523449,"moderate rain"
+Portland,"United States",45.523449,mist
+Portland,"United States",45.523449,"broken clouds"
+Portland,"United States",45.523449,fog
+Portland,"United States",45.523449,"light snow"
+"San Francisco","United States",37.774929,"light rain"
+"San Francisco","United States",37.774929,mist
+"San Francisco","United States",37.774929,"scattered clouds"
+"San Francisco","United States",37.774929,"sky is clear"
+"San Francisco","United States",37.774929,"overcast clouds"
+"San Francisco","United States",37.774929,haze
+"San Francisco","United States",37.774929,"few clouds"
+"San Francisco","United States",37.774929,fog
+"San Francisco","United States",37.774929,"heavy intensity rain"
+"San Francisco","United States",37.774929,"broken clouds"
+"San Francisco","United States",37.774929,"heavy snow"
+"San Francisco","United States",37.774929,"moderate rain"
+Seattle,"United States",47.606209,"sky is clear"
+Seattle,"United States",47.606209,"scattered clouds"
+Seattle,"United States",47.606209,"few clouds"
+Seattle,"United States",47.606209,"overcast clouds"
+Seattle,"United States",47.606209,mist
+Seattle,"United States",47.606209,"light rain"
+Seattle,"United States",47.606209,"proximity thunderstorm"
+Seattle,"United States",47.606209,"broken clouds"
+Seattle,"United States",47.606209,"moderate rain"
+Seattle,"United States",47.606209,fog
+"Los Angeles","United States",34.052231,"sky is clear"
+"Los Angeles","United States",34.052231,"scattered clouds"
+"Los Angeles","United States",34.052231,"overcast clouds"
+"Los Angeles","United States",34.052231,"few clouds"
+"Los Angeles","United States",34.052231,haze
+"Los Angeles","United States",34.052231,"moderate rain"
+"Los Angeles","United States",34.052231,"light rain"
+"Los Angeles","United States",34.052231,mist
+"Los Angeles","United States",34.052231,"broken clouds"
+"Los Angeles","United States",34.052231,"light intensity drizzle"
+"San Diego","United States",32.715328,"sky is clear"
+"San Diego","United States",32.715328,"few clouds"
+"San Diego","United States",32.715328,"scattered clouds"
+"San Diego","United States",32.715328,"overcast clouds"
+"San Diego","United States",32.715328,haze
+"San Diego","United States",32.715328,mist
+"San Diego","United States",32.715328,"broken clouds"
+"San Diego","United States",32.715328,"light rain"
+"San Diego","United States",32.715328,fog
+"San Diego","United States",32.715328,"light intensity drizzle"
+"San Diego","United States",32.715328,"heavy intensity rain"
+"San Diego","United States",32.715328,drizzle
+"Las Vegas","United States",36.174969,"sky is clear"
+"Las Vegas","United States",36.174969,"proximity thunderstorm"
+"Las Vegas","United States",36.174969,"scattered clouds"
+"Las Vegas","United States",36.174969,"overcast clouds"
+"Las Vegas","United States",36.174969,mist
+"Las Vegas","United States",36.174969,"heavy intensity rain"
+"Las Vegas","United States",36.174969,"few clouds"
+Phoenix,"United States",33.44838,"sky is clear"
+Phoenix,"United States",33.44838,"broken clouds"
+Phoenix,"United States",33.44838,"overcast clouds"
+Phoenix,"United States",33.44838,"few clouds"
+Phoenix,"United States",33.44838,"scattered clouds"
+Phoenix,"United States",33.44838,haze
+Phoenix,"United States",33.44838,"light rain"
+Phoenix,"United States",33.44838,"proximity shower rain"
+Phoenix,"United States",33.44838,mist
+Phoenix,"United States",33.44838,"heavy intensity rain"
+Phoenix,"United States",33.44838,"light intensity drizzle"
+Albuquerque,"United States",35.084492,"light rain"
+Albuquerque,"United States",35.084492,"scattered clouds"
+Albuquerque,"United States",35.084492,"sky is clear"
+Albuquerque,"United States",35.084492,"overcast clouds"
+Albuquerque,"United States",35.084492,"few clouds"
+Albuquerque,"United States",35.084492,dust
+Albuquerque,"United States",35.084492,"broken clouds"
+Albuquerque,"United States",35.084492,"heavy snow"
+Albuquerque,"United States",35.084492,mist
+Denver,"United States",39.739151,"sky is clear"
+Denver,"United States",39.739151,"few clouds"
+Denver,"United States",39.739151,"scattered clouds"
+Denver,"United States",39.739151,"light rain"
+Denver,"United States",39.739151,"moderate rain"
+Denver,"United States",39.739151,"overcast clouds"
+Denver,"United States",39.739151,"broken clouds"
+Denver,"United States",39.739151,mist
+Denver,"United States",39.739151,"heavy snow"
+Denver,"United States",39.739151,"light snow"
+Denver,"United States",39.739151,haze
+Denver,"United States",39.739151,fog
+"San Antonio","United States",29.42412,mist
+"San Antonio","United States",29.42412,"light rain"
+"San Antonio","United States",29.42412,"sky is clear"
+"San Antonio","United States",29.42412,"overcast clouds"
+"San Antonio","United States",29.42412,"scattered clouds"
+"San Antonio","United States",29.42412,"light intensity drizzle"
+"San Antonio","United States",29.42412,haze
+"San Antonio","United States",29.42412,"proximity thunderstorm"
+"San Antonio","United States",29.42412,"moderate rain"
+"San Antonio","United States",29.42412,"broken clouds"
+"San Antonio","United States",29.42412,"few clouds"
+Dallas,"United States",32.783058,"sky is clear"
+Dallas,"United States",32.783058,"light rain"
+Dallas,"United States",32.783058,"scattered clouds"
+Dallas,"United States",32.783058,"overcast clouds"
+Dallas,"United States",32.783058,mist
+Dallas,"United States",32.783058,"moderate rain"
+Dallas,"United States",32.783058,"few clouds"
+Dallas,"United States",32.783058,"broken clouds"
+Dallas,"United States",32.783058,"light intensity drizzle"
+Dallas,"United States",32.783058,haze
+Houston,"United States",29.763281,mist
+Houston,"United States",29.763281,"scattered clouds"
+Houston,"United States",29.763281,"sky is clear"
+Houston,"United States",29.763281,"moderate rain"
+Houston,"United States",29.763281,"overcast clouds"
+Houston,"United States",29.763281,"light rain"
+Houston,"United States",29.763281,"few clouds"
+Houston,"United States",29.763281,"broken clouds"
+Houston,"United States",29.763281,haze
+Houston,"United States",29.763281,"proximity thunderstorm"
+Houston,"United States",29.763281,fog
+"Kansas City","United States",39.099731,"sky is clear"
+"Kansas City","United States",39.099731,mist
+"Kansas City","United States",39.099731,"moderate rain"
+"Kansas City","United States",39.099731,"light rain"
+"Kansas City","United States",39.099731,"scattered clouds"
+"Kansas City","United States",39.099731,"overcast clouds"
+"Kansas City","United States",39.099731,"light intensity shower rain"
+"Kansas City","United States",39.099731,"proximity shower rain"
+"Kansas City","United States",39.099731,"broken clouds"
+"Kansas City","United States",39.099731,"heavy intensity shower rain"
+"Kansas City","United States",39.099731,haze
+"Kansas City","United States",39.099731,"few clouds"
+"Kansas City","United States",39.099731,"heavy snow"
+"Kansas City","United States",39.099731,"light intensity drizzle"
+"Kansas City","United States",39.099731,fog
+Minneapolis,"United States",44.979969,mist
+Minneapolis,"United States",44.979969,"light rain"
+Minneapolis,"United States",44.979969,"sky is clear"
+Minneapolis,"United States",44.979969,"overcast clouds"
+Minneapolis,"United States",44.979969,"scattered clouds"
+Minneapolis,"United States",44.979969,"moderate rain"
+Minneapolis,"United States",44.979969,"heavy snow"
+Minneapolis,"United States",44.979969,"light intensity drizzle"
+Minneapolis,"United States",44.979969,"light snow"
+Minneapolis,"United States",44.979969,haze
+Minneapolis,"United States",44.979969,"broken clouds"
+Minneapolis,"United States",44.979969,"few clouds"
+"Saint Louis","United States",38.62727,"moderate rain"
+"Saint Louis","United States",38.62727,"few clouds"
+"Saint Louis","United States",38.62727,"sky is clear"
+"Saint Louis","United States",38.62727,"scattered clouds"
+"Saint Louis","United States",38.62727,"light rain"
+"Saint Louis","United States",38.62727,"overcast clouds"
+"Saint Louis","United States",38.62727,mist
+"Saint Louis","United States",38.62727,"heavy snow"
+"Saint Louis","United States",38.62727,"light intensity drizzle"
+"Saint Louis","United States",38.62727,fog
+"Saint Louis","United States",38.62727,"broken clouds"
+Chicago,"United States",41.850029,mist
+Chicago,"United States",41.850029,"broken clouds"
+Chicago,"United States",41.850029,"sky is clear"
+Chicago,"United States",41.850029,"few clouds"
+Chicago,"United States",41.850029,"light rain"
+Chicago,"United States",41.850029,"scattered clouds"
+Chicago,"United States",41.850029,"overcast clouds"
+Chicago,"United States",41.850029,"moderate rain"
+Chicago,"United States",41.850029,"heavy snow"
+Chicago,"United States",41.850029,haze
+Chicago,"United States",41.850029,"light rain and snow"
+Chicago,"United States",41.850029,"light intensity drizzle"
+Nashville,"United States",36.16589,mist
+Nashville,"United States",36.16589,"light rain"
+Nashville,"United States",36.16589,"heavy intensity rain"
+Nashville,"United States",36.16589,"scattered clouds"
+Nashville,"United States",36.16589,"sky is clear"
+Nashville,"United States",36.16589,"few clouds"
+Nashville,"United States",36.16589,"overcast clouds"
+Nashville,"United States",36.16589,"broken clouds"
+Nashville,"United States",36.16589,fog
+Nashville,"United States",36.16589,"moderate rain"
+Indianapolis,"United States",39.768379,haze
+Indianapolis,"United States",39.768379,"overcast clouds"
+Indianapolis,"United States",39.768379,"scattered clouds"
+Indianapolis,"United States",39.768379,"sky is clear"
+Indianapolis,"United States",39.768379,"light rain"
+Indianapolis,"United States",39.768379,mist
+Indianapolis,"United States",39.768379,"few clouds"
+Indianapolis,"United States",39.768379,drizzle
+Indianapolis,"United States",39.768379,"moderate rain"
+Indianapolis,"United States",39.768379,"heavy snow"
+Indianapolis,"United States",39.768379,"light intensity drizzle"
+Indianapolis,"United States",39.768379,"broken clouds"
+Indianapolis,"United States",39.768379,fog
+Atlanta,"United States",33.749001,mist
+Atlanta,"United States",33.749001,"light rain"
+Atlanta,"United States",33.749001,"overcast clouds"
+Atlanta,"United States",33.749001,"scattered clouds"
+Atlanta,"United States",33.749001,"sky is clear"
+Atlanta,"United States",33.749001,fog
+Atlanta,"United States",33.749001,"moderate rain"
+Atlanta,"United States",33.749001,"heavy snow"
+Atlanta,"United States",33.749001,"light intensity drizzle"
+Detroit,"United States",42.331429,"overcast clouds"
+Detroit,"United States",42.331429,"broken clouds"
+Detroit,"United States",42.331429,"sky is clear"
+Detroit,"United States",42.331429,"scattered clouds"
+Detroit,"United States",42.331429,mist
+Detroit,"United States",42.331429,"moderate rain"
+Detroit,"United States",42.331429,"proximity shower rain"
+Detroit,"United States",42.331429,"heavy snow"
+Detroit,"United States",42.331429,"light snow"
+Detroit,"United States",42.331429,"heavy shower snow"
+Detroit,"United States",42.331429,"light rain"
+Detroit,"United States",42.331429,"light intensity drizzle rain"
+Detroit,"United States",42.331429,haze
+Jacksonville,"United States",30.33218,"overcast clouds"
+Jacksonville,"United States",30.33218,mist
+Jacksonville,"United States",30.33218,"light rain"
+Jacksonville,"United States",30.33218,"moderate rain"
+Jacksonville,"United States",30.33218,"few clouds"
+Jacksonville,"United States",30.33218,"sky is clear"
+Jacksonville,"United States",30.33218,"scattered clouds"
+Jacksonville,"United States",30.33218,"proximity thunderstorm"
+Jacksonville,"United States",30.33218,"broken clouds"
+Jacksonville,"United States",30.33218,fog
+Jacksonville,"United States",30.33218,haze
+Charlotte,"United States",35.227089,"light rain"
+Charlotte,"United States",35.227089,mist
+Charlotte,"United States",35.227089,"overcast clouds"
+Charlotte,"United States",35.227089,"scattered clouds"
+Charlotte,"United States",35.227089,"sky is clear"
+Charlotte,"United States",35.227089,"moderate rain"
+Charlotte,"United States",35.227089,"few clouds"
+Charlotte,"United States",35.227089,"heavy intensity rain"
+Charlotte,"United States",35.227089,fog
+Charlotte,"United States",35.227089,"broken clouds"
+Charlotte,"United States",35.227089,haze
+Charlotte,"United States",35.227089,"light intensity drizzle"
+Miami,"United States",25.774269,"light rain"
+Miami,"United States",25.774269,mist
+Miami,"United States",25.774269,"overcast clouds"
+Miami,"United States",25.774269,"few clouds"
+Miami,"United States",25.774269,"broken clouds"
+Miami,"United States",25.774269,"sky is clear"
+Miami,"United States",25.774269,"scattered clouds"
+Miami,"United States",25.774269,"light intensity drizzle"
+Miami,"United States",25.774269,fog
+Miami,"United States",25.774269,haze
+Miami,"United States",25.774269,"proximity thunderstorm"
+Pittsburgh,"United States",40.44062,"sky is clear"
+Pittsburgh,"United States",40.44062,"overcast clouds"
+Pittsburgh,"United States",40.44062,mist
+Pittsburgh,"United States",40.44062,"scattered clouds"
+Pittsburgh,"United States",40.44062,"few clouds"
+Pittsburgh,"United States",40.44062,"light intensity drizzle"
+Pittsburgh,"United States",40.44062,"heavy snow"
+Pittsburgh,"United States",40.44062,"light rain"
+Pittsburgh,"United States",40.44062,haze
+Toronto,Canada,43.700111,"sky is clear"
+Toronto,Canada,43.700111,"overcast clouds"
+Toronto,Canada,43.700111,mist
+Toronto,Canada,43.700111,"few clouds"
+Toronto,Canada,43.700111,"light intensity shower rain"
+Toronto,Canada,43.700111,"moderate rain"
+Toronto,Canada,43.700111,"scattered clouds"
+Toronto,Canada,43.700111,haze
+Toronto,Canada,43.700111,"light rain"
+Toronto,Canada,43.700111,"heavy snow"
+Toronto,Canada,43.700111,"heavy shower snow"
+Toronto,Canada,43.700111,"broken clouds"
+Toronto,Canada,43.700111,"light snow"
+Philadelphia,"United States",39.952339,"light rain"
+Philadelphia,"United States",39.952339,mist
+Philadelphia,"United States",39.952339,"sky is clear"
+Philadelphia,"United States",39.952339,"scattered clouds"
+Philadelphia,"United States",39.952339,"overcast clouds"
+Philadelphia,"United States",39.952339,"few clouds"
+Philadelphia,"United States",39.952339,"broken clouds"
+Philadelphia,"United States",39.952339,"heavy snow"
+Philadelphia,"United States",39.952339,"moderate rain"
+Philadelphia,"United States",39.952339,fog
+"New York","United States",40.714272,"scattered clouds"
+"New York","United States",40.714272,mist
+"New York","United States",40.714272,"sky is clear"
+"New York","United States",40.714272,"moderate rain"
+"New York","United States",40.714272,fog
+"New York","United States",40.714272,"overcast clouds"
+"New York","United States",40.714272,"light rain"
+"New York","United States",40.714272,"broken clouds"
+"New York","United States",40.714272,"few clouds"
+"New York","United States",40.714272,"light intensity drizzle"
+"New York","United States",40.714272,drizzle
+"New York","United States",40.714272,"heavy snow"
+"New York","United States",40.714272,"light rain and snow"
+"New York","United States",40.714272,haze
+Montreal,Canada,45.508839,"light intensity drizzle"
+Montreal,Canada,45.508839,mist
+Montreal,Canada,45.508839,"light rain"
+Montreal,Canada,45.508839,"sky is clear"
+Montreal,Canada,45.508839,"overcast clouds"
+Montreal,Canada,45.508839,"broken clouds"
+Montreal,Canada,45.508839,"few clouds"
+Montreal,Canada,45.508839,"scattered clouds"
+Montreal,Canada,45.508839,"proximity shower rain"
+Montreal,Canada,45.508839,"light intensity shower rain"
+Montreal,Canada,45.508839,"light shower sleet"
+Montreal,Canada,45.508839,"moderate rain"
+Montreal,Canada,45.508839,"heavy snow"
+Montreal,Canada,45.508839,"heavy shower snow"
+Montreal,Canada,45.508839,fog
+Boston,"United States",42.358429,"scattered clouds"
+Boston,"United States",42.358429,mist
+Boston,"United States",42.358429,"few clouds"
+Boston,"United States",42.358429,"sky is clear"
+Boston,"United States",42.358429,"moderate rain"
+Boston,"United States",42.358429,"overcast clouds"
+Boston,"United States",42.358429,"light rain"
+Boston,"United States",42.358429,"broken clouds"
+Boston,"United States",42.358429,"heavy snow"
+Boston,"United States",42.358429,haze
+Boston,"United States",42.358429,snow
+Boston,"United States",42.358429,fog
+Beersheba,Israel,31.25181,"sky is clear"
+Beersheba,Israel,31.25181,"overcast clouds"
+Beersheba,Israel,31.25181,"scattered clouds"
+Beersheba,Israel,31.25181,"few clouds"
+Beersheba,Israel,31.25181,"broken clouds"
+Beersheba,Israel,31.25181,"light rain"
+"Tel Aviv District",Israel,32.083328,"broken clouds"
+"Tel Aviv District",Israel,32.083328,"sky is clear"
+"Tel Aviv District",Israel,32.083328,"scattered clouds"
+"Tel Aviv District",Israel,32.083328,"few clouds"
+"Tel Aviv District",Israel,32.083328,"overcast clouds"
+"Tel Aviv District",Israel,32.083328,"proximity thunderstorm"
+"Tel Aviv District",Israel,32.083328,haze
+"Tel Aviv District",Israel,32.083328,mist
+"Tel Aviv District",Israel,32.083328,"light rain"
+"Tel Aviv District",Israel,32.083328,"moderate rain"
+"Tel Aviv District",Israel,32.083328,dust
+"Tel Aviv District",Israel,32.083328,"shower rain"
+Eilat,Israel,29.55805,sand
+Eilat,Israel,29.55805,"sky is clear"
+Eilat,Israel,29.55805,haze
+Eilat,Israel,29.55805,"scattered clouds"
+Eilat,Israel,29.55805,dust
+Eilat,Israel,29.55805,"overcast clouds"
+Eilat,Israel,29.55805,"few clouds"
+Eilat,Israel,29.55805,"light rain"
+Eilat,Israel,29.55805,"broken clouds"
+Haifa,Israel,32.815559,"overcast clouds"
+Haifa,Israel,32.815559,"sky is clear"
+Haifa,Israel,32.815559,"scattered clouds"
+Haifa,Israel,32.815559,"broken clouds"
+Haifa,Israel,32.815559,"few clouds"
+Haifa,Israel,32.815559,"light rain"
+Haifa,Israel,32.815559,"moderate rain"
+Nahariyya,Israel,33.005859,"overcast clouds"
+Nahariyya,Israel,33.005859,"sky is clear"
+Nahariyya,Israel,33.005859,"few clouds"
+Nahariyya,Israel,33.005859,"scattered clouds"
+Nahariyya,Israel,33.005859,"broken clouds"
+Nahariyya,Israel,33.005859,"light rain"
+Nahariyya,Israel,33.005859,"moderate rain"
+Jerusalem,Israel,31.769039,"sky is clear"
+Jerusalem,Israel,31.769039,"overcast clouds"
+Jerusalem,Israel,31.769039,"scattered clouds"
+Jerusalem,Israel,31.769039,"broken clouds"
+Jerusalem,Israel,31.769039,"few clouds"
+Jerusalem,Israel,31.769039,"light rain"
+Jerusalem,Israel,31.769039,"moderate rain"
+"San Antonio","United States",29.42412,"heavy intensity rain"
+"San Antonio","United States",29.42412,fog
+"San Antonio","United States",29.42412,"light snow"
+"San Antonio","United States",29.42412,"very heavy rain"
+Houston,"United States",29.763281,"proximity shower rain"
+Houston,"United States",29.763281,"heavy intensity rain"
+Houston,"United States",29.763281,"light intensity drizzle"
+Houston,"United States",29.763281,"very heavy rain"
+Philadelphia,"United States",39.952339,haze
+Philadelphia,"United States",39.952339,"proximity thunderstorm"
+Philadelphia,"United States",39.952339,"heavy intensity rain"
+Philadelphia,"United States",39.952339,"light intensity drizzle"
+Philadelphia,"United States",39.952339,"light snow"
+Philadelphia,"United States",39.952339,snow
+Minneapolis,"United States",44.979969,"proximity shower rain"
+Minneapolis,"United States",44.979969,"heavy intensity drizzle"
+Minneapolis,"United States",44.979969,fog
+Minneapolis,"United States",44.979969,"proximity thunderstorm"
+Minneapolis,"United States",44.979969,drizzle
+Minneapolis,"United States",44.979969,"heavy intensity rain"
+Minneapolis,"United States",44.979969,snow
+Minneapolis,"United States",44.979969,"very heavy rain"
+"San Francisco","United States",37.774929,smoke
+"San Francisco","United States",37.774929,"light intensity drizzle"
+"San Francisco","United States",37.774929,"proximity thunderstorm"
+"San Francisco","United States",37.774929,"proximity shower rain"
+"San Francisco","United States",37.774929,"light snow"
+"San Francisco","United States",37.774929,"proximity thunderstorm with rain"
+Phoenix,"United States",33.44838,"proximity thunderstorm"
+Phoenix,"United States",33.44838,"moderate rain"
+Phoenix,"United States",33.44838,dust
+Nashville,"United States",36.16589,haze
+Nashville,"United States",36.16589,"proximity thunderstorm"
+Nashville,"United States",36.16589,"light snow"
+Nashville,"United States",36.16589,"very heavy rain"
+Pittsburgh,"United States",40.44062,"light snow"
+Pittsburgh,"United States",40.44062,fog
+Pittsburgh,"United States",40.44062,"moderate rain"
+Pittsburgh,"United States",40.44062,"broken clouds"
+Pittsburgh,"United States",40.44062,"heavy intensity rain"
+Pittsburgh,"United States",40.44062,"proximity thunderstorm"
+Pittsburgh,"United States",40.44062,snow
+Boston,"United States",42.358429,"light intensity drizzle"
+Boston,"United States",42.358429,"light snow"
+Boston,"United States",42.358429,"proximity thunderstorm"
+Boston,"United States",42.358429,"heavy intensity rain"
+Boston,"United States",42.358429,"very heavy rain"
+"New York","United States",40.714272,"proximity thunderstorm"
+"New York","United States",40.714272,"light snow"
+"New York","United States",40.714272,"freezing rain"
+"New York","United States",40.714272,sand
+"New York","United States",40.714272,"heavy intensity rain"
+"New York","United States",40.714272,snow
+"New York","United States",40.714272,dust
+"New York","United States",40.714272,"very heavy rain"
+Montreal,Canada,45.508839,"light snow"
+Montreal,Canada,45.508839,"light shower snow"
+Montreal,Canada,45.508839,haze
+Montreal,Canada,45.508839,"heavy intensity rain"
+Montreal,Canada,45.508839,snow
+Beersheba,Israel,31.25181,"moderate rain"
+Beersheba,Israel,31.25181,"heavy intensity rain"
+Eilat,Israel,29.55805,"moderate rain"
+Charlotte,"United States",35.227089,"heavy intensity drizzle"
+Charlotte,"United States",35.227089,"proximity thunderstorm"
+Charlotte,"United States",35.227089,"light snow"
+Charlotte,"United States",35.227089,"heavy snow"
+Charlotte,"United States",35.227089,snow
+Charlotte,"United States",35.227089,"very heavy rain"
+"Tel Aviv District",Israel,32.083328,"heavy intensity rain"
+"Tel Aviv District",Israel,32.083328,fog
+Detroit,"United States",42.331429,"proximity thunderstorm"
+Detroit,"United States",42.331429,"light intensity drizzle"
+Detroit,"United States",42.331429,"light shower snow"
+Detroit,"United States",42.331429,fog
+Detroit,"United States",42.331429,"few clouds"
+Detroit,"United States",42.331429,"heavy intensity rain"
+Detroit,"United States",42.331429,"light intensity shower rain"
+Detroit,"United States",42.331429,snow
+Atlanta,"United States",33.749001,haze
+Atlanta,"United States",33.749001,"proximity thunderstorm"
+Atlanta,"United States",33.749001,"few clouds"
+Atlanta,"United States",33.749001,smoke
+Atlanta,"United States",33.749001,"heavy intensity rain"
+Atlanta,"United States",33.749001,"light snow"
+Atlanta,"United States",33.749001,"broken clouds"
+Atlanta,"United States",33.749001,"very heavy rain"
+"Saint Louis","United States",38.62727,haze
+"Saint Louis","United States",38.62727,"proximity thunderstorm"
+"Saint Louis","United States",38.62727,"heavy intensity rain"
+"Saint Louis","United States",38.62727,"light snow"
+"Saint Louis","United States",38.62727,snow
+Chicago,"United States",41.850029,"light snow"
+Chicago,"United States",41.850029,fog
+Chicago,"United States",41.850029,"proximity thunderstorm"
+Chicago,"United States",41.850029,"heavy intensity rain"
+Chicago,"United States",41.850029,"heavy intensity drizzle"
+Chicago,"United States",41.850029,"proximity thunderstorm with rain"
+Chicago,"United States",41.850029,snow
+Dallas,"United States",32.783058,"heavy intensity drizzle"
+Dallas,"United States",32.783058,"proximity thunderstorm"
+Dallas,"United States",32.783058,fog
+Dallas,"United States",32.783058,drizzle
+Dallas,"United States",32.783058,"heavy intensity rain"
+Dallas,"United States",32.783058,"light snow"
+Dallas,"United States",32.783058,"very heavy rain"
+Dallas,"United States",32.783058,snow
+Seattle,"United States",47.606209,"light intensity drizzle"
+Seattle,"United States",47.606209,haze
+Seattle,"United States",47.606209,smoke
+Seattle,"United States",47.606209,"light intensity shower rain"
+Seattle,"United States",47.606209,"light snow"
+Seattle,"United States",47.606209,"heavy intensity rain"
+Jacksonville,"United States",30.33218,smoke
+Jacksonville,"United States",30.33218,"light intensity drizzle"
+Jacksonville,"United States",30.33218,"heavy intensity rain"
+Miami,"United States",25.774269,"heavy intensity rain"
+Miami,"United States",25.774269,"moderate rain"
+Miami,"United States",25.774269,smoke
+Miami,"United States",25.774269,"proximity shower rain"
+"Los Angeles","United States",34.052231,smoke
+"Los Angeles","United States",34.052231,"proximity shower rain"
+"Los Angeles","United States",34.052231,dust
+"Los Angeles","United States",34.052231,"proximity thunderstorm"
+"Los Angeles","United States",34.052231,fog
+"Los Angeles","United States",34.052231,"heavy intensity rain"
+Albuquerque,"United States",35.084492,"proximity thunderstorm"
+Albuquerque,"United States",35.084492,"light intensity drizzle"
+Albuquerque,"United States",35.084492,"moderate rain"
+Albuquerque,"United States",35.084492,haze
+Albuquerque,"United States",35.084492,"heavy intensity rain"
+Albuquerque,"United States",35.084492,"shower rain"
+Albuquerque,"United States",35.084492,drizzle
+Albuquerque,"United States",35.084492,"proximity shower rain"
+Albuquerque,"United States",35.084492,fog
+Albuquerque,"United States",35.084492,"light snow"
+Albuquerque,"United States",35.084492,"light intensity shower rain"
+Albuquerque,"United States",35.084492,snow
+Jerusalem,Israel,31.769039,haze
+Jerusalem,Israel,31.769039,"proximity thunderstorm"
+Jerusalem,Israel,31.769039,mist
+Jerusalem,Israel,31.769039,"heavy intensity rain"
+Jerusalem,Israel,31.769039,fog
+Jerusalem,Israel,31.769039,dust
+Jerusalem,Israel,31.769039,"ragged shower rain"
+Portland,"United States",45.523449,haze
+Portland,"United States",45.523449,smoke
+Portland,"United States",45.523449,"light intensity drizzle"
+Portland,"United States",45.523449,"heavy intensity rain"
+Portland,"United States",45.523449,snow
+Toronto,Canada,43.700111,"proximity thunderstorm"
+Toronto,Canada,43.700111,"proximity shower rain"
+Toronto,Canada,43.700111,"light shower snow"
+Toronto,Canada,43.700111,"light intensity drizzle"
+Toronto,Canada,43.700111,fog
+Toronto,Canada,43.700111,"shower rain"
+Toronto,Canada,43.700111,"heavy intensity rain"
+Toronto,Canada,43.700111,snow
+Vancouver,Canada,49.24966,haze
+Vancouver,Canada,49.24966,smoke
+Vancouver,Canada,49.24966,"light snow"
+Vancouver,Canada,49.24966,"light intensity drizzle"
+Vancouver,Canada,49.24966,"light shower snow"
+Vancouver,Canada,49.24966,"heavy intensity rain"
+Vancouver,Canada,49.24966,"very heavy rain"
+Indianapolis,"United States",39.768379,"proximity thunderstorm"
+Indianapolis,"United States",39.768379,"light snow"
+Indianapolis,"United States",39.768379,"heavy intensity rain"
+Indianapolis,"United States",39.768379,snow
+Indianapolis,"United States",39.768379,"very heavy rain"
+Denver,"United States",39.739151,"light intensity drizzle"
+Denver,"United States",39.739151,"proximity thunderstorm"
+Denver,"United States",39.739151,"proximity thunderstorm with rain"
+Denver,"United States",39.739151,"proximity shower rain"
+Denver,"United States",39.739151,smoke
+Denver,"United States",39.739151,"heavy intensity rain"
+Denver,"United States",39.739151,snow
+"Kansas City","United States",39.099731,"proximity thunderstorm"
+"Kansas City","United States",39.099731,"light snow"
+"Kansas City","United States",39.099731,"heavy intensity rain"
+"Kansas City","United States",39.099731,"very heavy rain"
+"Kansas City","United States",39.099731,snow
+"Las Vegas","United States",36.174969,"light rain"
+"Las Vegas","United States",36.174969,"light intensity drizzle"
+"Las Vegas","United States",36.174969,"moderate rain"
+"Las Vegas","United States",36.174969,haze
+"Las Vegas","United States",36.174969,"broken clouds"
+"Las Vegas","United States",36.174969,"light snow"
+Haifa,Israel,32.815559,fog
+Haifa,Israel,32.815559,mist
+Haifa,Israel,32.815559,haze
+Haifa,Israel,32.815559,dust
+Haifa,Israel,32.815559,"heavy intensity rain"
+"San Diego","United States",32.715328,"light intensity shower rain"
+"San Diego","United States",32.715328,"moderate rain"
+Nahariyya,Israel,33.005859,fog
+Nahariyya,Israel,33.005859,mist
+Nahariyya,Israel,33.005859,haze
+Nahariyya,Israel,33.005859,dust
+Nahariyya,Israel,33.005859,"heavy intensity rain"
