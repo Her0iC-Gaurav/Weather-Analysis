@@ -1,1001 +1,906 @@
-humidity_city,humidity_value,pressure_value,Impact
-Portland,79,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,60,1024,"scattered clouds"
-Portland,41,1024,"scattered clouds"
-Portland,30,1024,"scattered clouds"
-Portland,26,1024,"scattered clouds"
-Portland,33,1024,"scattered clouds"
-Portland,57,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,40,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,97,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,97,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,94,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,97,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,74,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,59,1024,"scattered clouds"
-Portland,55,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,88,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,89,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,96,1024,"scattered clouds"
-Portland,66,1024,"scattered clouds"
-Portland,64,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,96,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,97,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,51,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,91,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,66,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,57,1024,"scattered clouds"
-Portland,55,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,88,1024,"scattered clouds"
-Portland,55,1024,"scattered clouds"
-Portland,65,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,66,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,68,1024,"scattered clouds"
-Portland,68,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,66,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,60,1024,"scattered clouds"
-Portland,45,1024,"scattered clouds"
-Portland,45,1024,"scattered clouds"
-Portland,64,1024,"scattered clouds"
-Portland,46,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,58,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,41,1024,"scattered clouds"
-Portland,42,1024,"scattered clouds"
-Portland,47,1024,"scattered clouds"
-Portland,22,1024,"scattered clouds"
-Portland,46,1024,"scattered clouds"
-Portland,59,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,62,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,64,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,91,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,51,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,56,1024,"scattered clouds"
-Portland,72,1024,"scattered clouds"
-Portland,60,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,65,1024,"scattered clouds"
-Portland,72,1024,"scattered clouds"
-Portland,89,1024,"scattered clouds"
-Portland,95,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,72,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,60,1024,"scattered clouds"
-Portland,88,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,72,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,89,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,62,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,60,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,71,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,74,1024,"scattered clouds"
-Portland,60,1024,"scattered clouds"
-Portland,62,1024,"scattered clouds"
-Portland,59,1024,"scattered clouds"
-Portland,62,1024,"scattered clouds"
-Portland,53,1024,"scattered clouds"
-Portland,46,1024,"scattered clouds"
-Portland,42,1024,"scattered clouds"
-Portland,65,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,74,1024,"scattered clouds"
-Portland,74,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,65,1024,"scattered clouds"
-Portland,57,1024,"scattered clouds"
-Portland,50,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,66,1024,"scattered clouds"
-Portland,63,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,67,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,74,1024,"scattered clouds"
-Portland,68,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,77,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,76,1024,"scattered clouds"
-Portland,61,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,70,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,94,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,69,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,64,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,96,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,73,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,80,1024,"scattered clouds"
-Portland,66,1024,"scattered clouds"
-Portland,65,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,91,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,79,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,94,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,94,1024,"scattered clouds"
-Portland,90,1024,"scattered clouds"
-Portland,88,1024,"scattered clouds"
-Portland,91,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,97,1024,"scattered clouds"
-Portland,99,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,94,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,75,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,92,1024,"scattered clouds"
-Portland,91,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,89,1024,"scattered clouds"
-Portland,84,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,89,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,74,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,78,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,82,1024,"scattered clouds"
-Portland,96,1024,"scattered clouds"
-Portland,85,1024,"scattered clouds"
-Portland,68,1024,"scattered clouds"
-Portland,81,1024,"scattered clouds"
-Portland,86,1024,"scattered clouds"
-Portland,94,1024,"scattered clouds"
-Portland,96,1024,"scattered clouds"
-Portland,99,1024,"scattered clouds"
-Portland,99,1024,"scattered clouds"
-Portland,99,1024,"scattered clouds"
-Portland,96,1024,"scattered clouds"
-Portland,93,1024,"scattered clouds"
-Portland,83,1024,"scattered clouds"
-Portland,87,1024,"scattered clouds"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",48,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",73,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",73,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",49,1010,"sky is clear"
-"San Francisco",73,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",63,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",60,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",62,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",58,1010,"sky is clear"
-"San Francisco",51,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",58,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",58,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",51,1010,"sky is clear"
-"San Francisco",55,1010,"sky is clear"
-"San Francisco",53,1010,"sky is clear"
-"San Francisco",62,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",61,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",65,1010,"sky is clear"
-"San Francisco",57,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",49,1010,"sky is clear"
-"San Francisco",43,1010,"sky is clear"
-"San Francisco",53,1010,"sky is clear"
-"San Francisco",63,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",54,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",56,1010,"sky is clear"
-"San Francisco",57,1010,"sky is clear"
-"San Francisco",73,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",65,1010,"sky is clear"
-"San Francisco",50,1010,"sky is clear"
-"San Francisco",63,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",65,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",43,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",80,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",80,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",58,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",65,1010,"sky is clear"
-"San Francisco",80,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",64,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",62,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",73,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",44,1010,"sky is clear"
-"San Francisco",57,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",67,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",63,1010,"sky is clear"
-"San Francisco",50,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",78,1010,"sky is clear"
-"San Francisco",59,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",59,1010,"sky is clear"
-"San Francisco",63,1010,"sky is clear"
-"San Francisco",51,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",73,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",72,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",78,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",91,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",95,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",97,1010,"sky is clear"
-"San Francisco",98,1010,"sky is clear"
-"San Francisco",99,1010,"sky is clear"
-"San Francisco",95,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",58,1010,"sky is clear"
-"San Francisco",50,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",91,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",96,1010,"sky is clear"
-"San Francisco",97,1010,"sky is clear"
-"San Francisco",96,1010,"sky is clear"
-"San Francisco",94,1010,"sky is clear"
-"San Francisco",94,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",98,1010,"sky is clear"
-"San Francisco",95,1010,"sky is clear"
-"San Francisco",94,1010,"sky is clear"
-"San Francisco",97,1010,"sky is clear"
-"San Francisco",98,1010,"sky is clear"
-"San Francisco",98,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",80,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",65,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",78,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",97,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",97,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",71,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",91,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",52,1010,"sky is clear"
-"San Francisco",68,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",81,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",61,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",85,1010,"sky is clear"
-"San Francisco",91,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",66,1010,"sky is clear"
-"San Francisco",51,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",91,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",75,1010,"sky is clear"
-"San Francisco",30,1010,"sky is clear"
-"San Francisco",26,1010,"sky is clear"
-"San Francisco",38,1010,"sky is clear"
-"San Francisco",41,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",76,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",80,1010,"sky is clear"
-"San Francisco",94,1010,"sky is clear"
-"San Francisco",83,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",61,1010,"sky is clear"
-"San Francisco",62,1010,"sky is clear"
-"San Francisco",62,1010,"sky is clear"
-"San Francisco",84,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",88,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",77,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",90,1010,"sky is clear"
-"San Francisco",91,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",97,1010,"sky is clear"
-"San Francisco",89,1010,"sky is clear"
-"San Francisco",93,1010,"sky is clear"
-"San Francisco",94,1010,"sky is clear"
-"San Francisco",92,1010,"sky is clear"
-"San Francisco",86,1010,"sky is clear"
-"San Francisco",82,1010,"sky is clear"
-"San Francisco",87,1010,"sky is clear"
-"San Francisco",79,1010,"sky is clear"
-"San Francisco",69,1010,"sky is clear"
-"San Francisco",63,1010,"sky is clear"
-"San Francisco",50,1010,"sky is clear"
-"San Francisco",74,1010,"sky is clear"
-"San Francisco",70,1010,"sky is clear"
-Seattle,78,1030,"scattered clouds"
-Seattle,69,1030,"scattered clouds"
-Seattle,61,1030,"scattered clouds"
-Seattle,47,1030,"scattered clouds"
-Seattle,45,1030,"scattered clouds"
-Seattle,48,1030,"scattered clouds"
-Seattle,44,1030,"scattered clouds"
-Seattle,50,1030,"scattered clouds"
-Seattle,64,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,71,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,85,1030,"scattered clouds"
-Seattle,82,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,79,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,74,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,88,1030,"scattered clouds"
-Seattle,93,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,89,1030,"scattered clouds"
-Seattle,91,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,77,1030,"scattered clouds"
-Seattle,62,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,91,1030,"scattered clouds"
-Seattle,84,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,82,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,89,1030,"scattered clouds"
-Seattle,90,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,91,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,93,1030,"scattered clouds"
-Seattle,85,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,83,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,74,1030,"scattered clouds"
-Seattle,74,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,85,1030,"scattered clouds"
-Seattle,73,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,83,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,78,1030,"scattered clouds"
-Seattle,48,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,89,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,79,1030,"scattered clouds"
-Seattle,74,1030,"scattered clouds"
-Seattle,74,1030,"scattered clouds"
-Seattle,79,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,90,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,83,1030,"scattered clouds"
-Seattle,84,1030,"scattered clouds"
-Seattle,80,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,99,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,83,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,77,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,78,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,78,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,65,1030,"scattered clouds"
-Seattle,65,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,68,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,74,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,64,1030,"scattered clouds"
-Seattle,55,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,87,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,71,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,85,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,79,1030,"scattered clouds"
-Seattle,75,1030,"scattered clouds"
-Seattle,70,1030,"scattered clouds"
-Seattle,56,1030,"scattered clouds"
-Seattle,76,1030,"scattered clouds"
-Seattle,72,1030,"scattered clouds"
-Seattle,86,1030,"scattered clouds"
-Seattle,57,1030,"scattered clouds"
-Seattle,58,1030,"scattered clouds"
-Seattle,42,1030,"scattered clouds"
-Seattle,45,1030,"scattered clouds"
-Seattle,64,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,69,1030,"scattered clouds"
-Seattle,64,1030,"scattered clouds"
-Seattle,58,1030,"scattered clouds"
-Seattle,78,1030,"scattered clouds"
-Seattle,73,1030,"scattered clouds"
-Seattle,71,1030,"scattered clouds"
-Seattle,71,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
-Seattle,81,1030,"scattered clouds"
+City,weather_description,humidity_pressure_correlation
+Vancouver,"overcast clouds",0.26619831894368223
+Vancouver,"broken clouds",0.244984301001586
+Vancouver,"sky is clear",0.2120808661652637
+Vancouver,"scattered clouds",0.22931336530979998
+Vancouver,"few clouds",0.22330464946433584
+Vancouver,"proximity shower rain",0.0682011735107055
+Vancouver,"light intensity shower rain",0.2065989933928485
+Vancouver,fog,0.22189961371979014
+Vancouver,"light rain",0.2210096713224376
+Vancouver,mist,0.2059687577381315
+Vancouver,"moderate rain",0.07534160306308205
+Vancouver,"heavy intensity rain",0.19093491410750346
+Vancouver,"very heavy rain",0.6175306132940698
+Vancouver,"light snow",-0.06999097532297001
+Vancouver,"light intensity drizzle",0.4657191456483124
+Vancouver,"heavy snow",0.21913921832201702
+Vancouver,"heavy shower snow",0.5998947774659191
+Vancouver,"shower rain",-0.27394854834004495
+Vancouver,"light intensity drizzle rain",-0.056027367171293835
+Vancouver,snow,0.018986213914768048
+Montreal,"scattered clouds",0.24447527549466985
+Montreal,"broken clouds",0.20382107445782793
+Montreal,mist,0.5933005299894785
+Montreal,"moderate rain",0.3511042572109809
+Montreal,"light rain",0.4241178697649963
+Montreal,"light intensity shower rain",0.4845060073120063
+Montreal,"overcast clouds",0.21994254607104335
+Montreal,"sky is clear",0.6840414538540823
+Montreal,"few clouds",0.19340124043909404
+Montreal,"proximity shower rain",0.4138414399724415
+Montreal,haze,0.38578829317026736
+Montreal,fog,0.5805953939368657
+Montreal,smoke,0.5214980176988523
+Montreal,"very heavy rain",-0.2678892949686179
+Montreal,"light intensity drizzle",0.7136980379899864
+Montreal,"thunderstorm with light rain",0.009204810613010216
+Montreal,"thunderstorm with rain",-0.09220912084270542
+Montreal,"heavy intensity rain",0.0018172716260381606
+Montreal,"light intensity drizzle rain",-0.00042787217470588044
+Montreal,"proximity thunderstorm",-0.13934250371970203
+Montreal,"heavy shower snow",0.6106345588119799
+Montreal,"light shower sleet",0.797754037245398
+Montreal,"light rain and snow",0.23977910777473888
+Montreal,"freezing rain",0.6557632539969137
+Montreal,"heavy snow",0.5512991040321711
+Montreal,snow,0.54418485426788
+Montreal,"light snow",-0.25026261793069227
+Montreal,"shower snow",0.48846785218709865
+Montreal,"light shower snow",-0.1592603011075071
+Montreal,sand,-1
+Montreal,"shower rain",0.11969522333971384
+Montreal,thunderstorm,-0.2766974092737518
+Montreal,"thunderstorm with heavy rain",-0.613451858241576
+Montreal,drizzle,0.6194815330055894
+Indianapolis,"scattered clouds",0.11243084736875646
+Indianapolis,"few clouds",-0.00010966753151945953
+Indianapolis,"sky is clear",0.13711849456910233
+Indianapolis,"overcast clouds",0.12532385363942675
+Indianapolis,mist,0.15259555566999403
+Indianapolis,"broken clouds",0.06218147269383397
+Indianapolis,drizzle,0.09405258221765349
+Indianapolis,"light rain",0.16600830349828424
+Indianapolis,"moderate rain",0.3399062780227186
+Indianapolis,"proximity thunderstorm",-0.05844526415366849
+Indianapolis,thunderstorm,0.13399855436819347
+Indianapolis,"heavy intensity rain",0.22319046098218484
+Indianapolis,"thunderstorm with heavy rain",0.6362896706070437
+Indianapolis,haze,0.09814044274095832
+Indianapolis,"proximity thunderstorm with rain",0.47254676376031524
+Indianapolis,"thunderstorm with light rain",-0.04023885520510334
+Indianapolis,"light intensity drizzle",0.372228361570294
+Indianapolis,fog,0.2928981700066067
+Indianapolis,"thunderstorm with rain",0.08049045053620907
+Indianapolis,"heavy intensity drizzle",-0.1382686900328397
+Indianapolis,"heavy snow",0.1795993916051131
+Indianapolis,snow,0.017976450169778245
+Indianapolis,"light snow",0.07051618616594586
+Indianapolis,"very heavy rain",0.01970316585763782
+Indianapolis,"light intensity shower rain",-0.17732448004861406
+Portland,"light rain",-0.022437673945941854
+Portland,"moderate rain",0.08229229402323646
+Portland,mist,-0.04927876956162351
+Portland,"heavy intensity rain",0.34528307999821944
+Portland,"overcast clouds",-0.0059390550554163386
+Portland,"broken clouds",0.03448866347083824
+Portland,"few clouds",0.23242974494709687
+Portland,"sky is clear",0.10864711756209187
+Portland,"scattered clouds",0.18678963452053005
+Portland,fog,-0.021809859521488412
+Portland,haze,0.22496868311579846
+Portland,"light intensity drizzle",-0.15656262779653118
+Portland,"heavy snow",0.14925959966998933
+Portland,"light snow",-0.04079976386392365
+Portland,snow,-0.20307135307059135
+Portland,dust,0.2015773589723173
+Portland,"very heavy rain",-0.20759374375535797
+Portland,"proximity thunderstorm",-0.12361323111475157
+Portland,thunderstorm,-0.5860844827612192
+Portland,"thunderstorm with light rain",0.6925433610644437
+Portland,"freezing rain",0.41054991455836937
+Portland,smoke,0.4235749099915319
+Atlanta,"scattered clouds",0.08631134456733658
+Atlanta,"broken clouds",0.13087930119239535
+Atlanta,mist,-0.04602305966393787
+Atlanta,"moderate rain",0.16573570992234798
+Atlanta,"overcast clouds",0.16076103135959627
+Atlanta,"heavy intensity rain",0.4063296350391126
+Atlanta,"light rain",0.02782053262767344
+Atlanta,"proximity thunderstorm",-0.03947404317032318
+Atlanta,"light intensity drizzle",-0.105170170987788
+Atlanta,"few clouds",0.0730815766832751
+Atlanta,"sky is clear",0.07351863912570474
+Atlanta,thunderstorm,-0.08145437800492697
+Atlanta,haze,-0.2552220888449582
+Atlanta,"thunderstorm with rain",0.034581951027004496
+Atlanta,fog,-0.12189663669068235
+Atlanta,"light intensity shower rain",-0.202293698648229
+Atlanta,"thunderstorm with light rain",0.10586633564016631
+Atlanta,"thunderstorm with heavy rain",-0.13881637876453426
+Atlanta,drizzle,-0.1064515326681937
+Atlanta,"proximity thunderstorm with rain",0.05951191655261152
+Atlanta,"heavy snow",-0.500244587424345
+Atlanta,"heavy intensity drizzle",0.35697640136270997
+Atlanta,"light snow",-0.3634205501105232
+Atlanta,snow,1
+Atlanta,squalls,-0.617438454878581
+Atlanta,"very heavy rain",-0.2176512926053702
+Atlanta,smoke,-0.11596107141745476
+Houston,"scattered clouds",0.1453267566392329
+Houston,"overcast clouds",-0.00630328624914276
+Houston,mist,-0.018843271932001006
+Houston,"broken clouds",0.09685516775461761
+Houston,"sky is clear",0.03861909355715033
+Houston,"few clouds",0.12019155345605138
+Houston,"moderate rain",0.37736110151312935
+Houston,"proximity thunderstorm",-0.16000980137055387
+Houston,"light rain",0.11634027273678048
+Houston,thunderstorm,-0.0987775191502238
+Houston,fog,-0.058031354154185984
+Houston,haze,-0.15038254643391802
+Houston,"heavy intensity rain",0.4655573572761384
+Houston,"very heavy rain",0.5711032099612796
+Houston,"thunderstorm with light rain",-0.11238828524632984
+Houston,"thunderstorm with heavy rain",0.18487425745853425
+Houston,"thunderstorm with rain",0.027524132274500443
+Houston,smoke,-0.49979339721421573
+Houston,drizzle,0.11974060992738396
+Houston,"shower rain",0.09643465240601569
+Houston,"proximity moderate rain",-0.7311608059641187
+Houston,"proximity shower rain",-0.04517171277114215
+Houston,"light intensity drizzle",-0.2828849685645318
+Houston,"light snow",-0.6384657852768435
+Houston,"proximity thunderstorm with rain",-0.2079952755895382
+Houston,"thunderstorm with light drizzle",0.8235899070160225
+Houston,sand,-1
+Houston,"thunderstorm with drizzle",-1
+Seattle,"light rain",0.17191035543173613
+Seattle,"moderate rain",-0.02031978371003586
+Seattle,"overcast clouds",-0.01831280369621037
+Seattle,mist,-0.16657493418130995
+Seattle,"heavy intensity rain",0.12759342173307114
+Seattle,"broken clouds",0.04688777014580998
+Seattle,"scattered clouds",0.1396430496922688
+Seattle,"few clouds",0.13585706678722917
+Seattle,"sky is clear",0.1186670128641419
+Seattle,"proximity thunderstorm",-0.22869143831228667
+Seattle,haze,0.08759708279594747
+Seattle,fog,-0.2633987391392185
+Seattle,"heavy snow",0.8471987608501997
+Seattle,"very heavy rain",-0.2720002992004937
+Seattle,"light snow",-0.22468265323722764
+Seattle,"thunderstorm with heavy rain",-1
+Seattle,"thunderstorm with light rain",-0.5326358255140673
+Seattle,"thunderstorm with rain",1
+Seattle,"light intensity drizzle",-0.09353613340973717
+Seattle,smoke,0.16938085406174244
+Seattle,drizzle,-0.19275374078900392
+Seattle,snow,0.6472977780031547
+Seattle,thunderstorm,-0.1042959255554126
+Seattle,"heavy intensity drizzle",-0.2533581373707896
+Seattle,"light intensity shower rain",-0.37278254869038785
+Seattle,"shower rain",-1
+"San Antonio","sky is clear",-0.013186587110332795
+"San Antonio","overcast clouds",-0.11524353165416684
+"San Antonio","few clouds",-0.031018058443588615
+"San Antonio",haze,-0.10075208593549785
+"San Antonio","broken clouds",-0.10981999534894656
+"San Antonio","scattered clouds",0.03528422244105682
+"San Antonio",mist,0.04117271059663521
+"San Antonio","light rain",0.07950347420792984
+"San Antonio","proximity thunderstorm",0.02325906737857541
+"San Antonio",thunderstorm,-0.06937475024135044
+"San Antonio","moderate rain",0.07986952106138208
+"San Antonio","light intensity drizzle",0.036940950482203055
+"San Antonio","thunderstorm with light rain",0.08825584024096368
+"San Antonio","heavy intensity rain",0.3264641854479523
+"San Antonio",fog,-0.046996292078239674
+"San Antonio","thunderstorm with heavy rain",0.43121851425985636
+"San Antonio","thunderstorm with rain",-0.011489424759750172
+"San Antonio","proximity thunderstorm with rain",-0.4190229787610742
+"San Antonio",drizzle,-0.19304299455209153
+"San Antonio",squalls,0.4232343386308289
+"San Antonio","heavy snow",-0.5289012781238711
+"San Antonio",dust,1
+"San Antonio","light snow",-0.12512017671200867
+"San Antonio","very heavy rain",0.21680872345050411
+"San Antonio","thunderstorm with light drizzle",1
+"San Antonio","heavy intensity drizzle",0.998753722767552
+Pittsburgh,"sky is clear",0.0038407632282583446
+Pittsburgh,"few clouds",-0.11260079180386931
+Pittsburgh,"broken clouds",-0.022244580241981483
+Pittsburgh,"overcast clouds",-0.12711517917586473
+Pittsburgh,"light rain",-0.01168157211158685
+Pittsburgh,mist,0.03472741715293787
+Pittsburgh,"moderate rain",0.03598814618809408
+Pittsburgh,"heavy intensity rain",0.17900846561570624
+Pittsburgh,"very heavy rain",0.33141074152752803
+Pittsburgh,thunderstorm,-0.07052358557059468
+Pittsburgh,"scattered clouds",-0.01550402489347705
+Pittsburgh,haze,-0.1920327436706365
+Pittsburgh,fog,-0.049780229259791364
+Pittsburgh,"light intensity drizzle",-0.11054818654790076
+Pittsburgh,"thunderstorm with rain",-0.3719474020987552
+Pittsburgh,"thunderstorm with light rain",-0.09316888999301524
+Pittsburgh,"proximity thunderstorm",-0.09123223452432495
+Pittsburgh,"heavy snow",0.1443837685846053
+Pittsburgh,snow,-0.1250202597487701
+Pittsburgh,"light snow",-0.08806561913877016
+Pittsburgh,"light rain and snow",-0.1079413904318489
+Pittsburgh,"thunderstorm with heavy rain",-0.1945200190238645
+Pittsburgh,drizzle,-0.2519517230428574
+Pittsburgh,"proximity shower rain",1
+Pittsburgh,dust,0.227459510876159
+Albuquerque,"scattered clouds",0.144630272519737
+Albuquerque,"few clouds",0.06496054704162128
+Albuquerque,"sky is clear",0.2623563694454612
+Albuquerque,"light rain",0.025052775665250323
+Albuquerque,"overcast clouds",0.26811186212044175
+Albuquerque,"broken clouds",0.15564196585392884
+Albuquerque,dust,0.5988849506498537
+Albuquerque,squalls,0.801338702467901
+Albuquerque,"heavy intensity rain",0.40907430655853316
+Albuquerque,"moderate rain",0.03523544075139802
+Albuquerque,"thunderstorm with light rain",-0.0689809995465469
+Albuquerque,thunderstorm,-0.03290860138654177
+Albuquerque,haze,0.25404320851593365
+Albuquerque,"heavy snow",0.6560925808128387
+Albuquerque,"light snow",0.06061019963307651
+Albuquerque,"proximity shower rain",-0.06581468507268244
+Albuquerque,fog,0.1152221239436422
+Albuquerque,mist,0.11574258708895142
+Albuquerque,"shower rain",-0.058354254027083385
+Albuquerque,"light intensity shower rain",0.07396463929498433
+Albuquerque,smoke,0.5459263635993397
+Albuquerque,"proximity moderate rain",-0.9621032142443144
+Albuquerque,"shower snow",-0.13664572496583027
+Albuquerque,snow,0.059615177571007004
+Albuquerque,"light intensity drizzle",-0.204682291349483
+Albuquerque,"thunderstorm with rain",0.27105847636889074
+Albuquerque,"proximity thunderstorm",0.18552884637405923
+Albuquerque,"thunderstorm with heavy rain",0.2188451088752814
+Albuquerque,"very heavy rain",-0.0866440410682461
+Albuquerque,drizzle,-0.0840162106245088
+Albuquerque,"proximity thunderstorm with rain",0.04125374130788446
+Albuquerque,"sand/dust whirls",0.0631037291856266
+"Tel Aviv District","scattered clouds",0.001591981281109201
+"Tel Aviv District","few clouds",0.026801785069035286
+"Tel Aviv District","broken clouds",0.0954392534635106
+"Tel Aviv District","sky is clear",0.011381583002194981
+"Tel Aviv District","light rain",0.03048859002653196
+"Tel Aviv District",haze,0.17017598268257736
+"Tel Aviv District","overcast clouds",0.0643188058357646
+"Tel Aviv District",mist,0.03284417701493233
+"Tel Aviv District",fog,0.1151520367761166
+"Tel Aviv District","thunderstorm with rain",0.09203233225670464
+"Tel Aviv District","proximity thunderstorm",0.46542658140039184
+"Tel Aviv District","moderate rain",0.02535263791228324
+"Tel Aviv District","shower rain",-0.027658611942599973
+"Tel Aviv District",dust,-0.3566170427673328
+"Tel Aviv District",thunderstorm,0.21792435611315888
+"Tel Aviv District","heavy intensity rain",0.255579141542558
+"Tel Aviv District","thunderstorm with light rain",0.1491031238012424
+"Tel Aviv District",drizzle,0.017168337594749814
+"Tel Aviv District","ragged shower rain",-0.8447924175233905
+"Tel Aviv District","heavy intensity shower rain",0.937509342255395
+"Tel Aviv District","very heavy rain",-1
+"Tel Aviv District","thunderstorm with heavy rain",-0.5904644783283914
+Dallas,"overcast clouds",0.21203597621491388
+Dallas,"light rain",0.35868138732730853
+Dallas,thunderstorm,-0.007486152283478976
+Dallas,"broken clouds",0.17801679124607267
+Dallas,"scattered clouds",0.18211332521014756
+Dallas,"sky is clear",0.13670357115155615
+Dallas,"moderate rain",0.1587045102076597
+Dallas,"very heavy rain",0.579516264181641
+Dallas,"few clouds",0.13325845492334157
+Dallas,"thunderstorm with rain",-0.045946494684322325
+Dallas,mist,0.0011095798772639079
+Dallas,"thunderstorm with heavy rain",-0.10910321626103821
+Dallas,"heavy intensity rain",0.3250129929415111
+Dallas,"thunderstorm with light rain",-0.16000572205833227
+Dallas,"proximity thunderstorm",-0.000086978991971547
+Dallas,haze,-0.04972034536274007
+Dallas,fog,-0.054015545757312704
+Dallas,"light intensity drizzle",0.02749242872701861
+Dallas,drizzle,-0.2058287117741447
+Dallas,"proximity thunderstorm with rain",-0.9288649579004241
+Dallas,"heavy snow",-0.423404079121334
+Dallas,"heavy intensity drizzle",-0.08688135269089717
+Dallas,dust,-1
+Dallas,"light snow",0.33299633349009106
+Dallas,smoke,0.5765566601970551
+Dallas,squalls,0.9392364623273163
+Dallas,snow,-0.10948654229261279
+Dallas,"thunderstorm with light drizzle",1
+Jacksonville,"sky is clear",0.08553212692175954
+Jacksonville,mist,-0.033816800089629305
+Jacksonville,"light rain",0.0408550847359039
+Jacksonville,"broken clouds",0.1445431664116024
+Jacksonville,"moderate rain",0.06840153467495245
+Jacksonville,thunderstorm,-0.18309092337141425
+Jacksonville,"few clouds",0.18216193188604562
+Jacksonville,"scattered clouds",0.06797827254596935
+Jacksonville,"thunderstorm with light rain",-0.06642753469935866
+Jacksonville,"heavy intensity rain",0.1965641685249624
+Jacksonville,"proximity thunderstorm",-0.13657622216441617
+Jacksonville,haze,0.034444843723277795
+Jacksonville,"overcast clouds",0.13287141501744557
+Jacksonville,"thunderstorm with rain",-0.42835092027395905
+Jacksonville,fog,0.1033865727286718
+Jacksonville,"thunderstorm with heavy rain",-0.3356115391935609
+Jacksonville,"light intensity drizzle",-0.18817890655164332
+Jacksonville,smoke,0.15033007871901416
+Jacksonville,"proximity shower rain",0.042646209610827435
+Jacksonville,"very heavy rain",-0.12034201964390534
+Jacksonville,drizzle,-0.07448053089913786
+Jacksonville,squalls,1
+Chicago,"light rain",0.28333893469361876
+Chicago,"sky is clear",0.4615420444282231
+Chicago,"moderate rain",0.4837718341941384
+Chicago,"proximity thunderstorm",-0.16883404135947058
+Chicago,"scattered clouds",0.4558622081028702
+Chicago,"broken clouds",0.39474948427703754
+Chicago,"overcast clouds",0.5358519680194782
+Chicago,mist,-0.1164142074209189
+Chicago,"few clouds",0.3692110665228545
+Chicago,"thunderstorm with rain",-0.006009349206007055
+Chicago,thunderstorm,0.058007547051856435
+Chicago,"thunderstorm with light rain",-0.10169159488710221
+Chicago,"heavy intensity rain",0.18004161770324856
+Chicago,haze,0.028903813736958373
+Chicago,fog,-0.07954347047632813
+Chicago,"light intensity drizzle",-0.10022290948529353
+Chicago,"thunderstorm with heavy rain",-0.3526458208897768
+Chicago,"very heavy rain",0.7675736795092326
+Chicago,"heavy snow",0.01836966680218478
+Chicago,drizzle,-0.18571559920753594
+Chicago,snow,0.5595341298189713
+Chicago,"light snow",0.35923060749185964
+Chicago,"heavy intensity drizzle",-0.5808920739544322
+Chicago,"proximity thunderstorm with rain",0.0009234129342941275
+Chicago,"thunderstorm with drizzle",1
+Chicago,"proximity thunderstorm with drizzle",-0.3614784456460256
+Chicago,"freezing rain",-0.10472852103206665
+Chicago,"proximity shower rain",-1
+Chicago,dust,1
+"San Diego","scattered clouds",0.24904902162113582
+"San Diego","sky is clear",0.21936522558651492
+"San Diego","few clouds",0.1577740696484875
+"San Diego",mist,-0.11878044766757123
+"San Diego","broken clouds",0.13769744759428057
+"San Diego",haze,0.01758164548190884
+"San Diego",squalls,-0.33389702618716666
+"San Diego",smoke,0.7313679597256529
+"San Diego","overcast clouds",0.28160502935005083
+"San Diego",fog,-0.18177601484862996
+"San Diego","light rain",-0.017754352418634104
+"San Diego","light intensity drizzle",-0.159749348289882
+"San Diego","heavy intensity rain",0.5968320728890532
+"San Diego","moderate rain",0.1493066870951387
+"San Diego",drizzle,-0.09678612653042269
+"San Diego","very heavy rain",0.6002359675854295
+"San Diego",thunderstorm,0.8384042456448427
+"San Diego","proximity thunderstorm",0.6175694781855906
+"San Diego","thunderstorm with rain",0.9136777753459687
+Phoenix,"sky is clear",0.22208597711200098
+Phoenix,"scattered clouds",0.21323913987857623
+Phoenix,"few clouds",0.15397137256838234
+Phoenix,"broken clouds",0.20346305042617424
+Phoenix,"moderate rain",0.3197687988338021
+Phoenix,"overcast clouds",0.2860156135708139
+Phoenix,haze,0.07291448953771758
+Phoenix,"light rain",0.15251374003740828
+Phoenix,"proximity thunderstorm",0.15991518281978326
+Phoenix,dust,0.10146606952272834
+Phoenix,"light intensity drizzle",-0.0214034204174369
+Phoenix,thunderstorm,0.09851891140353433
+Phoenix,mist,0.0655418866659643
+Phoenix,"shower rain",0.9046417169394373
+Phoenix,"proximity shower rain",0.31860930345545124
+Phoenix,"heavy intensity rain",0.49077455980618656
+Phoenix,"light intensity shower rain",-0.05376677611879903
+Phoenix,"heavy snow",-0.1375629284052368
+Phoenix,"very heavy rain",0.17108698982249876
+Phoenix,"thunderstorm with heavy rain",-0.4741510007264933
+Phoenix,"thunderstorm with light rain",0.4599417890379727
+Phoenix,"proximity sand/dust whirls",-0.8570023182084026
+Phoenix,drizzle,1
+Phoenix,fog,0.020255084121636888
+Phoenix,"thunderstorm with rain",-0.2728809646253654
+Phoenix,smoke,0.944911182523068
+Nashville,fog,-0.13235538680243947
+Nashville,mist,0.008029477569929512
+Nashville,"heavy intensity rain",0.17340145856647216
+Nashville,"very heavy rain",0.4031494735548366
+Nashville,"moderate rain",0.1811720870625499
+Nashville,"light rain",0.20775314403195447
+Nashville,"scattered clouds",0.2208308054517881
+Nashville,"overcast clouds",0.22773947337076053
+Nashville,"few clouds",0.0932480117579166
+Nashville,"proximity thunderstorm",-0.21159233668840388
+Nashville,"broken clouds",0.19024259476406036
+Nashville,"sky is clear",0.17221548617991683
+Nashville,"thunderstorm with rain",-0.2924853480234533
+Nashville,"thunderstorm with heavy rain",-0.013872841640446575
+Nashville,thunderstorm,0.015627305553117855
+Nashville,"thunderstorm with light rain",0.040574593283538775
+Nashville,"heavy snow",0.20403997724089235
+Nashville,snow,-0.09605919334730458
+Nashville,haze,-0.22899179213693366
+Nashville,"light intensity drizzle",-0.010726733558621734
+Nashville,squalls,-0.0940566740280919
+Nashville,"light snow",-0.3021686125817349
+Nashville,smoke,-0.42205195423000036
+Detroit,"sky is clear",0.1286466425982818
+Detroit,"scattered clouds",0.2265929005662703
+Detroit,"few clouds",0.16977177269990504
+Detroit,"broken clouds",0.19537239368437195
+Detroit,"overcast clouds",-0.022650369394296314
+Detroit,"light rain",0.03131461870805787
+Detroit,"moderate rain",0.1164387264050716
+Detroit,thunderstorm,-0.12263521180279789
+Detroit,"heavy intensity rain",0.18864922928457997
+Detroit,mist,0.07274265010280728
+Detroit,"thunderstorm with light rain",-0.06194937588487169
+Detroit,"thunderstorm with rain",-0.2276767910413106
+Detroit,haze,-0.13487955188809836
+Detroit,fog,-0.2716484658551146
+Detroit,"light intensity drizzle",-0.06201521597368011
+Detroit,drizzle,-0.04261036354638632
+Detroit,"light intensity shower rain",-0.07024191862404651
+Detroit,"heavy snow",0.23384112382328276
+Detroit,"shower rain",-0.32357058045457965
+Detroit,"thunderstorm with heavy rain",-0.3377251282819931
+Detroit,"proximity shower rain",-0.24119913525155698
+Detroit,"heavy shower snow",0.04646018618595157
+Detroit,"light snow",0.13504273248951976
+Detroit,snow,0.034575498604823625
+Detroit,"shower snow",-0.3157093122763833
+Detroit,"light intensity drizzle rain",1
+Detroit,"heavy intensity drizzle",-0.32571707426716745
+Detroit,"proximity thunderstorm",0.11196360968621509
+Detroit,"very heavy rain",0.9928106468347927
+Detroit,"light shower snow",-0.2013952182815792
+Detroit,"freezing rain",-0.5
+Miami,"scattered clouds",0.08399680243968358
+Miami,"broken clouds",0.011185818131015149
+Miami,"sky is clear",0.20433707666685422
+Miami,"few clouds",0.11028510616378107
+Miami,"light rain",0.04334118914235681
+Miami,thunderstorm,-0.05318964713488526
+Miami,"thunderstorm with light rain",-0.07160233145647013
+Miami,"overcast clouds",-0.08507126640613018
+Miami,"moderate rain",0.24713771847712426
+Miami,"light intensity drizzle",-0.11428119887831552
+Miami,mist,-0.08697481504267084
+Miami,"proximity thunderstorm",-0.1754254770330014
+Miami,"heavy intensity rain",0.346868991352186
+Miami,fog,-0.07435458549681874
+Miami,"thunderstorm with rain",-0.057809838631825324
+Miami,haze,-0.038593566765296565
+Miami,"thunderstorm with heavy rain",-0.03019466388507546
+Miami,smoke,0.0641889386140805
+Miami,"very heavy rain",0.13289534600500513
+Miami,"proximity shower rain",-0.011192344903196419
+"Los Angeles","sky is clear",0.11322686572554057
+"Los Angeles","few clouds",0.26653512495843046
+"Los Angeles","scattered clouds",0.27564274628214774
+"Los Angeles","broken clouds",0.25858403677338143
+"Los Angeles","overcast clouds",0.2476746343218691
+"Los Angeles","light rain",-0.022974898871041868
+"Los Angeles",fog,0.3183788287989009
+"Los Angeles",mist,0.12197352415405138
+"Los Angeles",haze,0.11800742031183417
+"Los Angeles","moderate rain",-0.02711018133000049
+"Los Angeles","heavy intensity rain",0.08191098805537535
+"Los Angeles",smoke,0.07953123523937075
+"Los Angeles","light intensity shower rain",0.9933992677987828
+"Los Angeles","light intensity drizzle",0.3614757879291693
+"Los Angeles",drizzle,0.8838834764831843
+"Los Angeles","shower rain",-0.021307948745482495
+"Los Angeles",thunderstorm,0.5030811408126552
+"Los Angeles","thunderstorm with rain",1
+"Los Angeles","very heavy rain",0.59191639599013
+"Los Angeles","thunderstorm with light rain",-0.5439483289027196
+"Los Angeles","proximity thunderstorm",0.15513353036781788
+"Los Angeles","thunderstorm with heavy rain",1
+"Los Angeles",dust,0.10496300093850626
+"Los Angeles","proximity shower rain",-0.19288524175681512
+"Los Angeles",squalls,0.875917837691566
+Denver,"sky is clear",0.1405826393513933
+Denver,"broken clouds",0.16272199529914283
+Denver,"light rain",0.14860468917098435
+Denver,"few clouds",0.16063771714886277
+Denver,"proximity thunderstorm",-0.0426431304680891
+Denver,"thunderstorm with light rain",0.22147945283594697
+Denver,thunderstorm,0.2732587771998214
+Denver,"overcast clouds",0.2307200944454137
+Denver,"scattered clouds",0.07550952495707872
+Denver,"moderate rain",0.08461569153529402
+Denver,"thunderstorm with heavy rain",0.3232213632937046
+Denver,"proximity shower rain",0.3348575633672544
+Denver,"thunderstorm with rain",-0.1655934709943213
+Denver,smoke,0.3331199926425235
+Denver,squalls,0.601026702719444
+Denver,mist,-0.001367014063941106
+Denver,"heavy intensity rain",0.7209200638655128
+Denver,"light intensity drizzle",-0.04886282452363865
+Denver,"very heavy rain",0.8414040275706213
+Denver,"heavy snow",0.24173694805915424
+Denver,snow,0.054258726161852115
+Denver,fog,-0.023530455529318237
+Denver,drizzle,0.15299491476195048
+Denver,haze,0.02511393084198684
+Denver,"light snow",-0.052751539383248905
+Denver,dust,-0.17112051939859668
+Denver,"shower rain",-1
+Denver,"proximity thunderstorm with rain",0.8695807826932095
+Denver,"thunderstorm with light drizzle",0.9707253433941508
+Denver,"light rain and snow",-0.5
+Denver,"heavy intensity drizzle",-0.39640310753137953
+Philadelphia,"overcast clouds",0.02000863149384145
+Philadelphia,"broken clouds",0.05445529177266667
+Philadelphia,"scattered clouds",0.11155347706337704
+Philadelphia,"sky is clear",-0.01068269765539363
+Philadelphia,"few clouds",0.09633971967757626
+Philadelphia,"light rain",-0.01703140384055069
+Philadelphia,mist,-0.03993309718993081
+Philadelphia,"light intensity drizzle",-0.17155420704810573
+Philadelphia,"moderate rain",0.021921745093390507
+Philadelphia,"thunderstorm with rain",-0.4387622782660804
+Philadelphia,"heavy intensity rain",0.2999033428329055
+Philadelphia,haze,-0.09278669148805854
+Philadelphia,fog,-0.03164858502483768
+Philadelphia,squalls,0.5215080912608043
+Philadelphia,"heavy snow",-0.039022052298093496
+Philadelphia,snow,0.043308520808705536
+Philadelphia,"light snow",0.07591638584165308
+Philadelphia,"light rain and snow",1
+Philadelphia,"proximity thunderstorm",0.06167803423116599
+Philadelphia,"thunderstorm with light rain",0.0078005119719703605
+Philadelphia,"thunderstorm with heavy rain",-0.009230674778549155
+Philadelphia,thunderstorm,-0.17277063117848077
+Philadelphia,"very heavy rain",0.3365411846849815
+Philadelphia,drizzle,0.1599279148494735
+Philadelphia,"freezing rain",0.7846215685064584
+"New York","broken clouds",0.16793501098240993
+"New York","overcast clouds",0.2673366826775839
+"New York","light snow",-0.03634667396540842
+"New York","scattered clouds",0.18275976554449333
+"New York","sky is clear",0.3102056473914619
+"New York","few clouds",0.16424355960919265
+"New York",drizzle,-0.05648723386560416
+"New York","moderate rain",0.15783009119191777
+"New York","light rain",0.1094163117043273
+"New York",mist,-0.22172736202433269
+"New York","heavy intensity rain",0.06932886989669794
+"New York",haze,-0.12245893046312663
+"New York","heavy snow",-0.015278586956998082
+"New York",fog,-0.17742198878626295
+"New York","light rain and snow",0.0948673250006737
+"New York","light intensity drizzle",-0.07726465210754582
+"New York",snow,0.46442040175037186
+"New York","heavy intensity drizzle",-0.25982284261020144
+"New York","very heavy rain",0.833072863327208
+"New York","thunderstorm with light rain",0.0805218115349036
+"New York",thunderstorm,-0.15808237387458504
+"New York","thunderstorm with rain",-0.4875238433246038
+"New York","thunderstorm with heavy rain",-0.318210949120027
+"New York","proximity thunderstorm",-0.3047793670193187
+"New York",smoke,-0.014352734975704055
+"New York","freezing rain",-0.4042130315814637
+"New York",dust,-0.09693899857198146
+"New York","proximity thunderstorm with rain",0.8660254037844386
+"New York",squalls,-0.7832067521998934
+"Saint Louis","sky is clear",0.09944234841412246
+"Saint Louis","thunderstorm with light rain",-0.03392904959313165
+"Saint Louis",fog,0.12220712327934329
+"Saint Louis","few clouds",0.20462693239283972
+"Saint Louis","scattered clouds",0.177356139948761
+"Saint Louis","broken clouds",0.21428321387197308
+"Saint Louis","overcast clouds",0.18084243457779003
+"Saint Louis","light rain",0.04458337639049895
+"Saint Louis",mist,-0.007802866347061043
+"Saint Louis",thunderstorm,-0.3265503466402829
+"Saint Louis",haze,0.019853143891129056
+"Saint Louis","moderate rain",0.19711119929472387
+"Saint Louis","proximity thunderstorm",-0.12868085671059915
+"Saint Louis","light intensity drizzle",0.004289217851962071
+"Saint Louis","thunderstorm with heavy rain",-0.1424715765008744
+"Saint Louis","heavy intensity rain",0.03962460722771934
+"Saint Louis","heavy intensity drizzle",-0.12627712171371158
+"Saint Louis",drizzle,-0.014023683495240715
+"Saint Louis","thunderstorm with rain",0.2051751192247343
+"Saint Louis","heavy snow",0.22376768122814852
+"Saint Louis",snow,0.05603538593433342
+"Saint Louis","freezing rain",0.312361883355546
+"Saint Louis","very heavy rain",0.2704013754207623
+"Saint Louis","light snow",-0.25348828055856354
+"Saint Louis",squalls,0.042768868524785654
+"Saint Louis","proximity thunderstorm with rain",0.9660509492205804
+"Saint Louis",smoke,-0.885886571838036
+"Saint Louis","light intensity shower rain",-0.48126165569686885
+Eilat,"sky is clear",-0.4581512776140901
+Eilat,sand,0.46971187160413175
+Eilat,haze,0.5067571130163896
+Eilat,dust,0.08599570508806814
+Eilat,"scattered clouds",-0.39163110687769664
+Eilat,"few clouds",-0.4569186228821919
+Eilat,"broken clouds",-0.5304027363820013
+Eilat,"overcast clouds",-0.6156842706630968
+Eilat,"moderate rain",-0.18993007021950986
+Eilat,"thunderstorm with rain",0.5157450850067592
+Eilat,"shower rain",-0.17490778777865043
+Eilat,"light rain",-0.14914519184528344
+Eilat,mist,0.1974653130755065
+Eilat,fog,0.6249031733320638
+Eilat,thunderstorm,-0.356281605342432
+Eilat,"proximity thunderstorm",0.6405662932104047
+Eilat,drizzle,0.7265730481429273
+"Kansas City","sky is clear",0.15408735216095235
+"Kansas City","few clouds",0.08152674407204956
+"Kansas City","light rain",0.10579793232811341
+"Kansas City","scattered clouds",0.1875595379055167
+"Kansas City","broken clouds",0.28185772278598514
+"Kansas City","moderate rain",0.1971922746938626
+"Kansas City",thunderstorm,-0.004073439185817873
+"Kansas City","overcast clouds",0.22678824413438858
+"Kansas City",mist,-0.06721660695986736
+"Kansas City","proximity thunderstorm",-0.07139961481748512
+"Kansas City",haze,-0.07457088115813393
+"Kansas City","thunderstorm with light rain",0.0832134555748903
+"Kansas City",fog,0.06948357177065043
+"Kansas City","light intensity shower rain",-0.040927886001409654
+"Kansas City","proximity shower rain",-0.10918003849366872
+"Kansas City","very heavy rain",0.7835457491212848
+"Kansas City","shower rain",0.15137182866139043
+"Kansas City","thunderstorm with rain",-0.8881697952585274
+"Kansas City","thunderstorm with heavy rain",-0.5110749325784855
+"Kansas City","light intensity drizzle",-0.10727326617701301
+"Kansas City","heavy intensity shower rain",0.38157712020280427
+"Kansas City","heavy snow",-0.40486459150357257
+"Kansas City","heavy intensity rain",0.029875410423422875
+"Kansas City","light snow",0.06906904451655063
+"Kansas City",snow,-0.15515461643521913
+"Kansas City",smoke,-0.16474021418264373
+"Kansas City",squalls,-0.39647102921974076
+"Kansas City","shower drizzle",1
+"Kansas City","freezing rain",0.8219949365267865
+"Kansas City",drizzle,0.018911736861805844
+Haifa,"sky is clear",0.17977157538141889
+Haifa,"few clouds",0.4553322067916909
+Haifa,"scattered clouds",0.45858893761255987
+Haifa,"broken clouds",0.4260938641667909
+Haifa,"overcast clouds",0.379604261550163
+Haifa,"light rain",0.5336786235683597
+Haifa,"moderate rain",0.6129083486631671
+Haifa,"heavy intensity rain",0.6240925490434633
+Haifa,mist,-0.005451353046425765
+Haifa,"thunderstorm with rain",-0.062297689879031365
+Haifa,haze,0.2280340212761803
+Haifa,fog,0.23195268626040982
+Haifa,"proximity thunderstorm",0.3671947917521328
+Haifa,"thunderstorm with heavy rain",-1
+Haifa,drizzle,-0.026387133477498388
+Haifa,dust,0.003003657382562323
+Haifa,"shower rain",0.8563324339593421
+Haifa,"thunderstorm with light rain",-0.05067003651937761
+Vancouver,smoke,0.18392554637944747
+Vancouver,"light shower snow",-0.19315106553321015
+Vancouver,"thunderstorm with heavy rain",-0.9955232465471126
+Vancouver,"thunderstorm with light rain",-0.43395182175768005
+Vancouver,haze,0.15183479949446893
+Vancouver,thunderstorm,0.7063777058641554
+Vancouver,"heavy intensity shower rain",-0.5347264818797108
+Vancouver,drizzle,-0.409644015186457
+Vancouver,"light rain and snow",-0.936789546613709
+Vancouver,"thunderstorm with rain",1
+Vancouver,"proximity thunderstorm",-0.6514085653983999
+Vancouver,"light shower sleet",1
+Nahariyya,"overcast clouds",0.32617170920897004
+Nahariyya,"sky is clear",0.22555008760676454
+Nahariyya,"few clouds",0.23813747223602072
+Nahariyya,"scattered clouds",0.35567494291670904
+Nahariyya,"light rain",0.08444501508441027
+Nahariyya,"broken clouds",0.32429169146791176
+Nahariyya,"moderate rain",0.11345923527163779
+Nahariyya,"heavy intensity rain",-0.13358079991032748
+Nahariyya,fog,0.31467181467181465
+Nahariyya,mist,-0.014183322158532208
+Nahariyya,"proximity thunderstorm",0.35123563338490066
+Nahariyya,"thunderstorm with heavy rain",-1
+Nahariyya,drizzle,-0.05443341178726274
+Nahariyya,haze,0.22690149175473145
+Nahariyya,"thunderstorm with rain",-0.062297689879031365
+Nahariyya,dust,0.003003657382562323
+Nahariyya,"shower rain",0.77988625878626
+Nahariyya,"thunderstorm with light rain",0.037190400165280094
+Jerusalem,"sky is clear",0.029137781359891136
+Jerusalem,"few clouds",0.03304601696944248
+Jerusalem,"broken clouds",0.2962888491507402
+Jerusalem,"light rain",0.5004946101648288
+Jerusalem,"scattered clouds",0.1893694004387861
+Jerusalem,"overcast clouds",0.27690077058154333
+Jerusalem,"moderate rain",0.5315875819238719
+Jerusalem,"heavy intensity rain",0.5496547733762785
+Jerusalem,mist,0.1760178885932785
+Jerusalem,thunderstorm,0.04082073608538031
+Jerusalem,haze,-0.02575317562639285
+Jerusalem,fog,0.7156603569615044
+Jerusalem,dust,-0.3800900118451184
+Jerusalem,"shower rain",0.12546554073704624
+Jerusalem,"thunderstorm with heavy rain",0.22641862498659476
+Jerusalem,"proximity thunderstorm",0.4239314861646604
+Jerusalem,"thunderstorm with light rain",0.5048168308449177
+Jerusalem,"thunderstorm with rain",0.06975311935379888
+Jerusalem,"heavy intensity shower rain",-0.9645788568769381
+Beersheba,"sky is clear",0.21972709943284088
+Beersheba,"overcast clouds",0.35159682380154417
+Beersheba,"broken clouds",0.23723193410954546
+Beersheba,"light rain",0.14714014351204727
+Beersheba,"scattered clouds",0.18936377737179944
+Beersheba,"few clouds",0.12062271943633836
+Beersheba,"moderate rain",0.7379726855596
+Beersheba,"heavy intensity rain",0.3763890278236442
+Boston,"sky is clear",0.20663905179933598
+Boston,"scattered clouds",0.17608325942080613
+Boston,"few clouds",0.394690796403396
+Boston,"broken clouds",0.19314108753005568
+Boston,"light rain",0.13961636212641054
+Boston,"overcast clouds",0.044170537622528254
+Boston,drizzle,0.10288507072719558
+Boston,mist,-0.028615598545210973
+Boston,"moderate rain",0.22503664712452978
+Boston,"thunderstorm with light rain",0.2759349099487117
+Boston,"proximity thunderstorm",-0.06632387734876151
+Boston,"heavy intensity rain",0.3098662307703532
+Boston,haze,-0.24456325214407681
+Boston,fog,-0.005226812145414738
+Boston,"light intensity drizzle",-0.18586028012906516
+Boston,"heavy snow",0.07882570254880485
+Boston,snow,0.2915082395452195
+Boston,"light snow",0.2665789922699724
+Boston,squalls,-0.41287636276237916
+Boston,"very heavy rain",-0.17425872113308866
+Boston,"thunderstorm with rain",-0.04422713891127426
+Boston,"heavy intensity drizzle",0.5122418892119179
+Boston,thunderstorm,0.24871578725260243
+Boston,"thunderstorm with heavy rain",-0.3918505356163184
+Boston,dust,-0.9166959647084235
+Minneapolis,"few clouds",0.05557975276476619
+Minneapolis,"sky is clear",0.09383681045593241
+Minneapolis,"heavy intensity rain",0.1082422817477456
+Minneapolis,"moderate rain",-0.09384567340275295
+Minneapolis,"broken clouds",0.013861322003344072
+Minneapolis,"scattered clouds",0.08051811734753914
+Minneapolis,"overcast clouds",-0.009027023337992593
+Minneapolis,"light rain",-0.05703882473014652
+Minneapolis,"proximity thunderstorm",-0.040246229946975444
+Minneapolis,mist,0.041132828437731646
+Minneapolis,fog,-0.02512435310681848
+Minneapolis,"light intensity drizzle",-0.16888035313921387
+Minneapolis,"proximity thunderstorm with rain",-0.21916462161914996
+Minneapolis,"thunderstorm with heavy rain",0.1904858171933482
+Minneapolis,haze,-0.1288292431505253
+Minneapolis,drizzle,-0.2245358892519828
+Minneapolis,"thunderstorm with light rain",-0.07446073829758562
+Minneapolis,"heavy intensity drizzle",0.40198711444809326
+Minneapolis,"thunderstorm with rain",-0.2662247714091058
+Minneapolis,squalls,-0.5684166282616819
+Minneapolis,"heavy snow",0.038542099985041024
+Minneapolis,snow,0.1655224764798048
+Minneapolis,"light snow",-0.13524922386809216
+Minneapolis,"very heavy rain",0.54056460326827
+Minneapolis,"proximity thunderstorm with drizzle",-0.6705624846784055
+Minneapolis,thunderstorm,0.13259604725718693
+Minneapolis,"thunderstorm with light drizzle",0.8905509193458736
+Minneapolis,"proximity shower rain",-0.2261988947569231
+Minneapolis,"light shower snow",0.32740683957629707
+Minneapolis,"light intensity shower rain",0.6228341799775277
+Toronto,"broken clouds",0.26877121664738485
+Toronto,"few clouds",0.19007862401583342
+Toronto,"light rain",0.2522414703581908
+Toronto,"sky is clear",0.12066574777961411
+Toronto,"thunderstorm with light rain",0.09612696486592905
+Toronto,thunderstorm,0.6393836783434989
+Toronto,"moderate rain",-0.00032634721817197706
+Toronto,mist,0.5199082811473997
+Toronto,"scattered clouds",0.08839385989423017
+Toronto,"light intensity shower rain",0.7035787850399647
+Toronto,"proximity shower rain",0.36715949974252865
+Toronto,"overcast clouds",0.22732616688013485
+Toronto,haze,0.0675114086537794
+Toronto,"light intensity drizzle",0.8439059296812423
+Toronto,"heavy intensity rain",0.14838067146913428
+Toronto,"heavy intensity shower rain",0.9599281760652616
+Toronto,"proximity thunderstorm",-0.16853787623595148
+Toronto,fog,-0.15337539417779367
+Toronto,"thunderstorm with heavy rain",-0.09804348752774028
+Toronto,"thunderstorm with rain",-0.5294261604972408
+Toronto,"light shower sleet",0.10851095838305397
+Toronto,"heavy shower snow",0.3318179983377717
+Toronto,"heavy snow",0.18761169312267525
+Toronto,"shower rain",0.8357222210248092
+Toronto,"freezing rain",0.30542361089076303
+Toronto,snow,0.2452360462140521
+Toronto,"shower snow",0.3418597542919249
+Toronto,"light snow",0.07467874383555163
+Toronto,"light shower snow",-0.26720966848204786
+Toronto,"very heavy rain",0.02902376195485069
+Toronto,"light intensity drizzle rain",-0.39863682880894935
+Toronto,squalls,1
+Toronto,drizzle,-0.8021806287494232
+"San Francisco",mist,-0.04479654612282425
+"San Francisco",haze,-0.1190430382389774
+"San Francisco","broken clouds",0.19429877964585568
+"San Francisco",fog,-0.11613583249391711
+"San Francisco","overcast clouds",0.05383745404709868
+"San Francisco","scattered clouds",0.18974826651204077
+"San Francisco","sky is clear",0.17859016431888022
+"San Francisco","heavy intensity rain",0.2804316390047115
+"San Francisco","light rain",0.18501167059419224
+"San Francisco","light intensity drizzle",-0.2828757702497486
+"San Francisco","thunderstorm with light rain",-0.39969847998728714
+"San Francisco","few clouds",0.22222124505875812
+"San Francisco","proximity thunderstorm",-0.12320000289954673
+"San Francisco",thunderstorm,-0.23704278597340053
+"San Francisco","moderate rain",0.2717266000206714
+"San Francisco",drizzle,-0.3165795877089298
+"San Francisco","proximity shower rain",-0.1805456145886564
+"San Francisco","thunderstorm with rain",-0.037600507404426935
+"San Francisco","heavy snow",-0.08890901051980937
+"San Francisco","thunderstorm with heavy rain",-0.10792650841773979
+"San Francisco","heavy intensity drizzle",-0.5436400661853311
+"San Francisco","very heavy rain",-0.4933962388385501
+"San Francisco","light intensity shower rain",-0.2117804081664108
+"San Francisco","proximity thunderstorm with rain",-0.06642190788335806
+"San Francisco",smoke,-0.14212606747471399
+"San Francisco","shower rain",-0.9057962601140003
+"San Francisco",squalls,-0.222931364347513
+"San Francisco","light snow",-0.31347726762636097
+Charlotte,"overcast clouds",-0.018224218780287033
+Charlotte,"scattered clouds",0.08264472519762668
+Charlotte,"sky is clear",0.07506905206128478
+Charlotte,"broken clouds",0.11926104914307854
+Charlotte,"few clouds",0.05119509901184115
+Charlotte,haze,-0.07194413828656762
+Charlotte,mist,-0.06421526255495837
+Charlotte,"light rain",0.05386998498442504
+Charlotte,"light intensity drizzle",-0.10069928735464355
+Charlotte,fog,-0.023191676062811868
+Charlotte,"heavy intensity rain",0.2489044113227572
+Charlotte,"moderate rain",0.04539136200966706
+Charlotte,"proximity thunderstorm",-0.08756761645412629
+Charlotte,thunderstorm,-0.1998987643218124
+Charlotte,"thunderstorm with light rain",0.25884093210978576
+Charlotte,"thunderstorm with heavy rain",-0.29610783794684986
+Charlotte,"heavy intensity drizzle",-0.046133407064484884
+Charlotte,"very heavy rain",0.09311629083911589
+Charlotte,"thunderstorm with rain",0.06315946221621578
+Charlotte,"proximity thunderstorm with rain",-0.043380555537366784
+Charlotte,drizzle,-0.0816880734612863
+Charlotte,"heavy snow",0.3148116534261416
+Charlotte,snow,0.2905300429606255
+Charlotte,"light snow",-0.14678183601285957
+Charlotte,smoke,-0.24817776340927278
+"Las Vegas","sky is clear",0.11029979421471156
+"Las Vegas","proximity thunderstorm",0.10194732778418861
+"Las Vegas","broken clouds",0.12018655735064192
+"Las Vegas","scattered clouds",0.07939968094765022
+"Las Vegas","few clouds",0.12351741398959118
+"Las Vegas",haze,0.12172596803405472
+"Las Vegas","overcast clouds",0.18778612636440237
+"Las Vegas","light rain",0.013089252540371606
+"Las Vegas","heavy intensity rain",-0.29769599766689053
+"Las Vegas",dust,-0.03747852496118717
+"Las Vegas","light intensity drizzle",0.17446649847515666
+"Las Vegas","moderate rain",-0.12405378612902153
+"Las Vegas",mist,0.20610467970252594
+"Las Vegas","thunderstorm with heavy rain",0.5360091886310042
+"Las Vegas",squalls,-0.00975340081684131
+"Las Vegas",thunderstorm,0.262951042685298
+"Las Vegas","thunderstorm with light rain",0.35262685922899634
+"Las Vegas","light snow",-0.5540204149696049
+"Las Vegas",drizzle,-0.2578291928742489

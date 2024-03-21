@@ -1,0 +1,145 @@
+City,hemisphere,season,avg_temperature
+Vancouver,"Northern Hemisphere",Autumn,283.85732957646303
+Indianapolis,"Northern Hemisphere",Autumn,285.51427202692537
+Portland,"Northern Hemisphere",Autumn,285.08021914584907
+"New York","Northern Hemisphere",Autumn,287.203984600725
+"San Francisco","Northern Hemisphere",Autumn,289.1379984243596
+Atlanta,"Northern Hemisphere",Autumn,289.7966036329672
+Seattle,"Northern Hemisphere",Autumn,284.33718475810366
+Jerusalem,"Northern Hemisphere",Autumn,294.8538817353142
+"Los Angeles","Northern Hemisphere",Autumn,291.9655128594359
+Detroit,"Northern Hemisphere",Autumn,284.6795131850419
+"San Diego","Northern Hemisphere",Autumn,291.52562503817154
+Montreal,"Northern Hemisphere",Autumn,282.48793493352656
+"Las Vegas","Northern Hemisphere",Autumn,291.5578466982667
+Jacksonville,"Northern Hemisphere",Autumn,294.92810008317826
+Phoenix,"Northern Hemisphere",Autumn,295.53011702579835
+Eilat,"Northern Hemisphere",Autumn,298.1117506618089
+Albuquerque,"Northern Hemisphere",Autumn,285.4007331409785
+Charlotte,"Northern Hemisphere",Autumn,288.7429751855286
+Denver,"Northern Hemisphere",Autumn,283.1268814139463
+Boston,"Northern Hemisphere",Autumn,285.58355350153386
+"San Antonio","Northern Hemisphere",Autumn,294.44995080560227
+Miami,"Northern Hemisphere",Autumn,298.9256975593234
+Dallas,"Northern Hemisphere",Autumn,293.100718317087
+Nahariyya,"Northern Hemisphere",Autumn,296.66277691316617
+Houston,"Northern Hemisphere",Autumn,294.7677043796737
+Pittsburgh,"Northern Hemisphere",Autumn,284.8630543260085
+"Kansas City","Northern Hemisphere",Autumn,287.9941554466768
+Beersheba,"Northern Hemisphere",Autumn,293.1003608268908
+Minneapolis,"Northern Hemisphere",Autumn,282.24939293264697
+Toronto,"Northern Hemisphere",Autumn,284.1037390529569
+"Saint Louis","Northern Hemisphere",Autumn,287.41437597750996
+Haifa,"Northern Hemisphere",Autumn,297.71308884541713
+Chicago,"Northern Hemisphere",Autumn,285.4591825735542
+Philadelphia,"Northern Hemisphere",Autumn,286.28833019589274
+Nashville,"Northern Hemisphere",Autumn,288.78608713205165
+"Tel Aviv District","Northern Hemisphere",Autumn,296.9841691267167
+Vancouver,"Northern Hemisphere",Spring,283.28435382711564
+Portland,"Northern Hemisphere",Spring,284.4165192589713
+"San Francisco","Northern Hemisphere",Spring,287.6291363183085
+Seattle,"Northern Hemisphere",Spring,283.83871088059385
+"Los Angeles","Northern Hemisphere",Spring,289.7546185696754
+"San Diego","Northern Hemisphere",Spring,289.0973297822991
+"Las Vegas","Northern Hemisphere",Spring,292.1350355564094
+Phoenix,"Northern Hemisphere",Spring,295.00936643085606
+"San Antonio","Northern Hemisphere",Spring,293.4953145791238
+Dallas,"Northern Hemisphere",Spring,291.6515559759703
+Houston,"Northern Hemisphere",Spring,293.8702202067657
+"Kansas City","Northern Hemisphere",Spring,286.1476736209952
+Minneapolis,"Northern Hemisphere",Spring,280.27161657677823
+"Saint Louis","Northern Hemisphere",Spring,286.45628982586413
+Chicago,"Northern Hemisphere",Spring,281.75048942990196
+Nashville,"Northern Hemisphere",Spring,288.4738562425354
+Indianapolis,"Northern Hemisphere",Spring,284.58320584099806
+Atlanta,"Northern Hemisphere",Spring,289.78892230964374
+Detroit,"Northern Hemisphere",Spring,281.3921813639508
+Jacksonville,"Northern Hemisphere",Spring,293.80491017464016
+Charlotte,"Northern Hemisphere",Spring,288.85814321355195
+Miami,"Northern Hemisphere",Spring,297.61334644276434
+Pittsburgh,"Northern Hemisphere",Spring,283.52142783248246
+Toronto,"Northern Hemisphere",Spring,279.53647398943747
+Philadelphia,"Northern Hemisphere",Spring,284.1261915203624
+"New York","Northern Hemisphere",Spring,283.50792188701513
+Denver,"Northern Hemisphere",Spring,281.47936512350066
+Montreal,"Northern Hemisphere",Spring,278.761315124598
+Boston,"Northern Hemisphere",Spring,281.4218449091059
+Beersheba,"Northern Hemisphere",Spring,291.08282129746493
+"Tel Aviv District","Northern Hemisphere",Spring,292.9675961840713
+Eilat,"Northern Hemisphere",Spring,295.67717499259487
+Haifa,"Northern Hemisphere",Spring,293.2903483800381
+Nahariyya,"Northern Hemisphere",Spring,292.31488323546756
+Jerusalem,"Northern Hemisphere",Spring,292.37079872548355
+Albuquerque,"Northern Hemisphere",Spring,285.84832234957736
+Phoenix,"Northern Hemisphere",Summer,306.0997356146086
+Denver,"Northern Hemisphere",Summer,293.8835593865196
+Vancouver,"Northern Hemisphere",Summer,291.2738486602022
+Detroit,"Northern Hemisphere",Summer,294.64893939957454
+"San Antonio","Northern Hemisphere",Summer,301.448286971042
+Jacksonville,"Northern Hemisphere",Summer,300.48220222442234
+Dallas,"Northern Hemisphere",Summer,301.9221703337658
+Charlotte,"Northern Hemisphere",Summer,298.0417466965302
+Miami,"Northern Hemisphere",Summer,301.3008634368408
+"Los Angeles","Northern Hemisphere",Summer,295.6245862972321
+Pittsburgh,"Northern Hemisphere",Summer,294.4760787107651
+Houston,"Northern Hemisphere",Summer,301.46595193592174
+"San Francisco","Northern Hemisphere",Summer,291.88886946231816
+Toronto,"Northern Hemisphere",Summer,293.24766516032
+"San Diego","Northern Hemisphere",Summer,294.2424502796102
+Philadelphia,"Northern Hemisphere",Summer,296.20202048639453
+"Kansas City","Northern Hemisphere",Summer,297.8444746064899
+"Las Vegas","Northern Hemisphere",Summer,304.6644421940409
+Minneapolis,"Northern Hemisphere",Summer,294.22652104159715
+Montreal,"Northern Hemisphere",Summer,292.89192522982563
+Seattle,"Northern Hemisphere",Summer,291.342863473902
+Boston,"Northern Hemisphere",Summer,294.3024725467937
+Beersheba,"Northern Hemisphere",Summer,297.85946199595605
+"Saint Louis","Northern Hemisphere",Summer,297.8659461078621
+"Tel Aviv District","Northern Hemisphere",Summer,300.6002801457883
+Chicago,"Northern Hemisphere",Summer,294.70981388052934
+Eilat,"Northern Hemisphere",Summer,304.64066816402993
+Atlanta,"Northern Hemisphere",Summer,298.3659421561466
+Portland,"Northern Hemisphere",Summer,292.66054574538543
+Haifa,"Northern Hemisphere",Summer,301.1091059641822
+Nashville,"Northern Hemisphere",Summer,298.2511694410959
+Nahariyya,"Northern Hemisphere",Summer,299.55949272540767
+Indianapolis,"Northern Hemisphere",Summer,295.98588339826256
+Jerusalem,"Northern Hemisphere",Summer,299.4474904557115
+Albuquerque,"Northern Hemisphere",Summer,295.76059966735335
+"New York","Northern Hemisphere",Summer,296.29566155447844
+Vancouver,"Northern Hemisphere",Winter,276.8989812179894
+Portland,"Northern Hemisphere",Winter,277.6606326695974
+"San Francisco","Northern Hemisphere",Winter,283.8368706057305
+Seattle,"Northern Hemisphere",Winter,278.00426228142857
+"Los Angeles","Northern Hemisphere",Winter,285.80836012710466
+"San Diego","Northern Hemisphere",Winter,285.7521792971992
+"Las Vegas","Northern Hemisphere",Winter,281.2258372846319
+Phoenix,"Northern Hemisphere",Winter,285.1269481447551
+Albuquerque,"Northern Hemisphere",Winter,275.2853355309278
+"San Antonio","Northern Hemisphere",Winter,285.50837965907226
+Dallas,"Northern Hemisphere",Winter,282.55087123113395
+Houston,"Northern Hemisphere",Winter,286.4955569729991
+"Kansas City","Northern Hemisphere",Winter,274.17621950239624
+Minneapolis,"Northern Hemisphere",Winter,265.5609156092474
+"Saint Louis","Northern Hemisphere",Winter,274.6442851937196
+Chicago,"Northern Hemisphere",Winter,270.99087074516814
+Nashville,"Northern Hemisphere",Winter,278.53263628366574
+Indianapolis,"Northern Hemisphere",Winter,272.683824184667
+Atlanta,"Northern Hemisphere",Winter,280.96722437354225
+Detroit,"Northern Hemisphere",Winter,270.72406872495975
+Jacksonville,"Northern Hemisphere",Winter,287.92241407321256
+Charlotte,"Northern Hemisphere",Winter,279.7871181301268
+Miami,"Northern Hemisphere",Winter,294.78604418880855
+Pittsburgh,"Northern Hemisphere",Winter,273.0438224629956
+Toronto,"Northern Hemisphere",Winter,270.39497074499684
+Philadelphia,"Northern Hemisphere",Winter,274.56001487253536
+Montreal,"Northern Hemisphere",Winter,266.7097131027518
+Boston,"Northern Hemisphere",Winter,273.39409114468845
+Beersheba,"Northern Hemisphere",Winter,283.8206514479071
+"Tel Aviv District","Northern Hemisphere",Winter,287.239352759065
+Eilat,"Northern Hemisphere",Winter,287.3040370678539
+Haifa,"Northern Hemisphere",Winter,288.7095117719964
+Nahariyya,"Northern Hemisphere",Winter,287.59420528373795
+Jerusalem,"Northern Hemisphere",Winter,285.84317572242776
+Denver,"Northern Hemisphere",Winter,272.6340918078649
+"New York","Northern Hemisphere",Winter,274.2924264486388

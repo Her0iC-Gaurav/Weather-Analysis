@@ -1,5 +1,5 @@
 City,Country,Latitude,Longitude,NumCities
-Jerusalem,Israel,32,35,2
-Haifa,Israel,33,35,2
-Tel Aviv District,Israel,32,35,2
-Nahariyya,Israel,33,35,2
+"Tel Aviv District",Israel,32.083328,34.799999,2
+Haifa,Israel,32.815559,34.98917,2
+Nahariyya,Israel,33.005859,35.09409,2
+Jerusalem,Israel,31.769039,35.216331,2

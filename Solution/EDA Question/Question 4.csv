@@ -1,4 +1,4 @@
-City,Impact,Rainy_Days
-Seattle,"light rain",480
-Portland,"light rain",476
-Miami,"light rain",453
+City,Seasonal_Month,weather_description,Rainy_Days
+Portland,4,"light rain",935
+Miami,12,"light rain",900
+Portland,12,"light rain",893
