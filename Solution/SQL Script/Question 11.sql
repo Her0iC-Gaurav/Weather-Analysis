@@ -4,10 +4,8 @@ SELECT
     dl.date,
     f.temperature,
     f.weather_description,
-    f.humidity,
-    f.pressure,
-    f.wind_direction,
-    f.wind_speed
+    thresholds.lower_threshold,
+    thresholds.upper_threshold
 FROM
     final_fact f
 JOIN
