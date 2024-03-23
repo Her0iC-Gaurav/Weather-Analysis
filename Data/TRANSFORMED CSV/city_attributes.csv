@@ -1,37 +1,37 @@
-﻿City,Country,Latitude,Longitude
-Vancouver,Canada,49,-123
-Portland,United States,46,-123
-San Francisco,United States,38,-122
-Seattle,United States,48,-122
-Los Angeles,United States,34,-118
-San Diego,United States,33,-117
-Las Vegas,United States,36,-115
-Phoenix,United States,33,-112
-Albuquerque,United States,35,-107
-Denver,United States,40,-105
-San Antonio,United States,29,-98
-Dallas,United States,33,-97
-Houston,United States,30,-95
-Kansas City,United States,39,-95
-Minneapolis,United States,45,-93
-Saint Louis,United States,39,-90
-Chicago,United States,42,-88
-Nashville,United States,36,-87
-Indianapolis,United States,40,-86
-Atlanta,United States,34,-84
-Detroit,United States,42,-83
-Jacksonville,United States,30,-82
-Charlotte,United States,35,-81
-Miami,United States,26,-80
-Pittsburgh,United States,40,-80
-Toronto,Canada,44,-79
-Philadelphia,United States,40,-75
-New York,United States,41,-74
-Montreal,Canada,46,-74
-Boston,United States,42,-71
-Beersheba,Israel,31,35
-Tel Aviv District,Israel,32,35
-Eilat,Israel,30,35
-Haifa,Israel,33,35
-Nahariyya,Israel,33,35
-Jerusalem,Israel,32,35
+Country_id,City_id,Latitude,Longitude
+1,1,49.24966,-123.119339
+2,2,45.523449,-122.676208
+2,3,37.774929,-122.419418
+2,4,47.606209,-122.332069
+2,5,34.052231,-118.243683
+2,6,32.715328,-117.157257
+2,7,36.174969,-115.137222
+2,8,33.44838,-112.074043
+2,9,35.084492,-106.651138
+2,10,39.739151,-104.984703
+2,11,29.42412,-98.493629
+2,12,32.783058,-96.806671
+2,13,29.763281,-95.363274
+2,14,39.099731,-94.578568
+2,15,44.979969,-93.26384
+2,16,38.62727,-90.197891
+2,17,41.850029,-87.650047
+2,18,36.16589,-86.784439
+2,19,39.768379,-86.158043
+2,20,33.749001,-84.387978
+2,21,42.331429,-83.045753
+2,22,30.33218,-81.655647
+2,23,35.227089,-80.843132
+2,24,25.774269,-80.193657
+2,25,40.44062,-79.995888
+1,26,43.700111,-79.416298
+2,27,39.952339,-75.163788
+2,28,40.714272,-74.005966
+1,29,45.508839,-73.587807
+2,30,42.358429,-71.059769
+3,31,31.25181,34.791302
+3,32,32.083328,34.799999
+3,33,29.55805,34.948212
+3,34,32.815559,34.98917
+3,35,33.005859,35.09409
+3,36,31.769039,35.216331
