@@ -1,4 +1,3 @@
-*.pptx
 *.pdf
 *.zip
 # Ignore files larger than 100 MB
@@ -6,5 +5,5 @@
 *.avi
 *.mov
 *.mkv
-Solution/PPT/Weather\ Analysis\ PPT.pptx
+
 
