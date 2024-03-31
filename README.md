@@ -46,3 +46,10 @@ Users can interactively explore data trends, visualize historical weather data, 
 
 LinkedIn 🔗
 Connect with me on LinkedIn for more insights and discussions: https://www.linkedin.com/in/gaurav-wankhede-5244101b8/
+
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
+
+You are free to use, modify, and distribute this code for non-commercial purposes only. You may not redistribute this code for commercial purposes without permission.
