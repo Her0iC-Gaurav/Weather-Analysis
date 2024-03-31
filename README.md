@@ -1,27 +1,48 @@
-Problem Statement
-Analyze weather trends, seasonal variations, and correlations between weather attributes. Use Excel and SQL to gain insights and their impact. Develop a Power BI dashboard for weather monitoring and historical weather analysis.
+🌦️ Weather Analysis Dashboard 📊
+Overview ℹ️
+This project aims to analyze weather trends, seasonal variations, and correlations between various weather attributes using Excel, SQL, and Power BI. 
+The dataset includes information on city attributes, humidity, pressure, temperature, weather descriptions, wind direction, and wind speed for multiple cities.
 
-Dataset Description
-This dataset includes data on city attributes, humidity, pressure, temperature, weather descriptions, wind direction, and wind speed for various cities.
+Dataset Description 📈
 
-Table Explanations
-City_attributes:
-Purpose: This file provides metadata about each city that is covered in the dataset. Columns: City: The name of the city. Country: The country in which the city is located. Latitude: The geographical latitude of the city. Longitude: The geographical longitude of the city. Usage: This file can be used to map cities to their respective countries and geographical coordinates. It can also be useful if one wants to perform location-based analysis or visualization on a map.
+City Attributes 🏙️
+Purpose: Metadata about each city in the dataset.
+Columns: City, Country, Latitude, Longitude.
+Usage: Mapping cities to countries and geographical coordinates, location-based analysis.
 
-Humidity:
-Purpose: Contains hourly data representing the humidity levels in each city. Columns: Datetime: The specific hour for which the data is recorded. City Columns: Each city has its own column, and under each city column, the humidity level for that hour is recorded. Usage: Useful for analyzing humidity trends, understanding seasonal variations, or correlating humidity with other factors.
+Humidity 💧
+Purpose: Hourly humidity levels for each city.
+Columns: Datetime, City-wise humidity levels.
+Usage: Analyzing humidity trends, seasonal variations, correlation with other factors.
 
-Pressure:
-Purpose: Provides hourly data about the air pressure levels in each city. Columns: Datetime: The specific hour for which the data is recorded. City Columns: Each city has its own column, and under each city column, the air pressure level for that hour is recorded. Usage: Can be used to study pressure patterns, predict weather changes, or understand the relationship between pressure and other weather attributes.
+Pressure 💨
+Purpose: Hourly air pressure levels for each city.
+Columns: Datetime, City-wise air pressure levels.
+Usage: Studying pressure patterns, weather change prediction, correlation analysis.
 
-Temperature:
-Purpose: Contains hourly temperature data for each city. Columns: Datetime: The specific hour for which the data is recorded. City Columns: Each city has its own column, and under each city column, the temperature for that hour is recorded. Usage: Vital for studying temperature trends, understanding heatwaves or cold spells, and correlating temperature with factors like energy consumption.
+Temperature 🌡️
+Purpose: Hourly temperature data for each city.
+Columns: Datetime, City-wise temperature records.
+Usage: Analyzing temperature trends, heatwaves, cold spells, energy consumption correlation.
 
-Weather_description:
-Purpose: Provides a textual description of the weather for each city on an hourly basis. Columns: Datetime: The specific hour for which the data is recorded. City Columns: Each city has its own column, and under each city column, the weather description for that hour is provided (e.g., "clear sky", "rainy", "cloudy", etc.). Usage: Useful for understanding the qualitative aspects of weather, categorizing weather types, or analyzing the frequency of certain weather conditions.
+Weather Description ☁️
+Purpose: Textual weather descriptions on an hourly basis.
+Columns: Datetime, City-wise weather descriptions.
+Usage: Understanding qualitative aspects of weather, weather type categorization, frequency analysis.
 
-Wind_direction:
-Purpose: Contains data about the direction from which the wind is blowing on an hourly basis for each city. Columns: Datetime: The specific hour for which the data is recorded. City Columns: Each city has its own column, and under each city column, the wind direction for that hour is recorded (usually in degrees). Usage: Can be used to study wind patterns, predict potential wind-related events, or understand the relationship between wind direction and other factors like pollution dispersion.
+Wind Direction 🌬️
+Purpose: Hourly wind direction data for each city.
+Columns: Datetime, City-wise wind directions.
+Usage: Studying wind patterns, predicting wind-related events, pollution dispersion.
 
-Wind_speed:
-Purpose: Provides hourly data about the speed of the wind in each city. Columns: Datetime: The specific hour for which the data is recorded. City Columns: Each city has its own column, and under each city column, the wind speed for that hour is recorded (usually in km/h or m/s). Usage: Vital for understanding wind patterns, predicting potential wind-related hazards, or studying the impact of wind speed on various activities.
+Wind Speed 💨
+Purpose: Hourly wind speed data for each city.
+Columns: Datetime, City-wise wind speeds.
+Usage: Understanding wind patterns, predicting wind-related hazards, impact analysis.
+
+Dashboard Development 🚀
+The Power BI dashboard developed from this analysis provides comprehensive insights into weather patterns, seasonal variations, and correlations between different weather attributes. 
+Users can interactively explore data trends, visualize historical weather data, and derive actionable insights.
+
+LinkedIn 🔗
+Connect with me on LinkedIn for more insights and discussions: https://www.linkedin.com/in/gaurav-wankhede-5244101b8/
