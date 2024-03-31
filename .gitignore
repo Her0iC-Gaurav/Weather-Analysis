@@ -1,7 +1,6 @@
 *.pdf
 *.zip
 # Ignore files larger than 100 MB
-*.mp4
 *.avi
 *.mov
 *.mkv
