@@ -44,7 +44,7 @@ Usage: Understanding wind patterns, predicting wind-related hazards, impact anal
 The Power BI dashboard developed from this analysis provides comprehensive insights into weather patterns, seasonal variations, and correlations between different weather attributes. 
 Users can interactively explore data trends, visualize historical weather data, and derive actionable insights.
 
-### LinkedIn 🔗
+## LinkedIn 🔗
 Connect with me on LinkedIn for more insights and discussions: https://www.linkedin.com/in/gaurav-wankhede-5244101b8/
 
 
